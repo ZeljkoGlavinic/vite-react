@@ -1,0 +1,13 @@
+Komponente spa aplikacije
+Omotac
+  Zaglavlje 
+    NaslovZakona 
+    NarodneNovine
+    DatumiVazenja
+  LijeviStupac
+    IzbornikZakona
+    IzbornikGlavnihNaslova 
+  DesniStupac
+    GlavniSadrzaj
+    VezePodrobno
+  Podnozje 
