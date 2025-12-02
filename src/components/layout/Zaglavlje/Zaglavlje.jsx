@@ -1,6 +1,4 @@
-import NaslovZakona from './NaslovZakona'
-import NarodneNovine from './NarodneNovine'
-import DatumiVazenja from './DatumiVazenja'
+import { NaslovZakona, NarodneNovine, DatumiVazenja } from './'
 
 function Zaglavlje() {
   return (
