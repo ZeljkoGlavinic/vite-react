@@ -1,7 +1,7 @@
-function NaslovZakona() {
+function NaslovZakona({ naziv }) {
   return (
     <div className="naslov-zakona">
-      <h1>Naslov zakona</h1>
+      <h1>{naziv}</h1>
     </div>
   )
 }

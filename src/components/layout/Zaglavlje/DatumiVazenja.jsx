@@ -1,7 +1,7 @@
-function DatumiVazenja() {
+function DatumiVazenja({ datum }) {
   return (
     <div className="datumi-vazenja">
-      <p>Datum stupanja na snagu: DD.MM.GGGG</p>
+      <p>Datum stupanja na snagu: {datum}</p>
     </div>
   )
 }
