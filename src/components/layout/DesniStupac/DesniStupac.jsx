@@ -1,13 +1,11 @@
-import GlavniSadrzaj from './GlavniSadrzaj'
-import VezePodrobno from './VezePodrobno'
+import StrukturiraniPopisPodrobnihVeza from './StrukturiraniPopisPodrobnihVeza'
 
 function DesniStupac() {
-  return (
-    <main className="desni-stupac">
-      <GlavniSadrzaj />
-      <VezePodrobno />
-    </main>
-  )
+	return (
+		<main className="desni-stupac">
+			<StrukturiraniPopisPodrobnihVeza />
+		</main>
+	)
 }
 
 export default DesniStupac

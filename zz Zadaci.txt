@@ -1,13 +1,17 @@
+Main > App > Omotac
 Komponente spa aplikacije
 Omotac
   Zaglavlje 
     NaslovZakona 
     NarodneNovine
     DatumiVazenja
-  LijeviStupac
-    IzbornikZakona
-    IzbornikGlavnihNaslova 
-  DesniStupac
-    GlavniSadrzaj
-    VezePodrobno
-  Podnozje 
+  div#glavni-sadrzaj
+    LijeviStupac
+      IzbornikZakona
+      IzbornikGlavnihNaslova
+    DesniStupac
+      GlavniSadrzaj
+        StrukturiraniPopisPodrobnihVeza
+          VezaPodrobno
+
+    Podnozje 
