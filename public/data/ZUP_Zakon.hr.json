@@ -1,0 +1,835 @@
+{
+	"MetaPodaciAkta": [
+		{
+			"naziv": "Zakon o općem upravnom postupku",
+			"NN": "47/2009, 110/2021",
+			"datum": "1.1.2022.",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku",
+			"protokol": "https://",
+			"osnovniURL": "www.zakon.hr",
+			"akronim": "ZUP"
+		}
+	],
+	"StavkeSadržajaAkta": [
+		{
+			"naslov": "PRVI DIO TEMELJNE ODREDBE",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prvi%20dio%20temeljne%20odredbe,1",
+			"razina": 1
+		},
+		{
+			"naslov": "Glava I. OPĆE ODREDBE",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20i.%20opce%20odredbe,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Predmet Zakona",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=I.%C2%A0%C2%A0%20OP%C4%86E%20ODREDBE-,predmet%20zakona,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Upravna stvar",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=u%20upravnim%20stvarima.-,upravna%20stvar,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena Zakona",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=kao%20upravna%20stvar.-,primjena%20zakona,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Stranka u upravnom postupku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=druga%20pravna%20za%C5%A1tita.-,stranka%20u%20upravnom%20postupku,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo zakonitosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=kojima%20se%20rje%C5%A1ava.-,nacelo%20zakonitosti,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo razmjernosti u zaštiti prava stranaka i javnog interesa",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20razmjernosti%20u%20zastiti%20prava%20stranaka%20i%20javnog%20interesa,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo pomoći stranci",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20pomoci%20stranci,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo utvrđivanja materijalne istine",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20utvr%C4%91ivanja%20materijalne%20istine,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo samostalnosti i slobodne ocjene dokaza",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20samostalnosti%20i%20slobodne%20ocjene%20dokaza,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo učinkovitosti i ekonomičnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20ucinkovitosti%20i%20ekonomicnosti,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo pristupa podacima i zaštite podataka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20pristupa%20podacima%20i%20zastite%20podataka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravo stranke na pravni lijek",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pravo%20stranke%20na%20pravni%20lijek,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelo zaštite stečenih prava stranaka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacelo%20zastite%20stecenih%20prava%20stranaka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Službena uporaba jezika i pisma",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=sluzbena%20uporaba%20jezika%20i%20pisma,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava II. NADLEŽNOST",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20ii.%20nadleznost,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Stvarna nadležnost",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=Glava%20II.%C2%A0%C2%A0%C2%A0%20NADLE%C5%BDNOST-,stvarna%20nadleznost,-%C4%8Clanak%2015.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Mjesna nadležnost",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=naravi%20upravne%20stvari.-,mjesna%20nadleznost,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Obveznost pravila o stvarnoj i mjesnoj nadležnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=obveznost%20pravila%20o%20stvarnoj%20i%20mjesnoj%20nadleznosti,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupanje nenadležnoga javnopravnog tijela po podnesku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupanje%20nenadleznoga%20javnopravnog%20tijela%20po%20podnesku,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Sukob nadležnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rje%C5%A1enje%20dostaviti%20stranci.-,sukob%20nadleznosti,-%C4%8Clanak%2019.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Odlučivanje o sukobu nadležnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odlucivanje%20o%20sukobu%20nadleznosti,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Zajednička odluka u upravnoj stvari",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=zajednicka%20odluka%20u%20upravnoj%20stvari,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Jedinstveno upravno mjesto",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=jedinstveno%20upravno%20mjesto,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava IV. PRAVNA POMOĆ U UPRAVNIM STVARIMA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20iv.%20pravna%20pomoc%20u%20upravnim%20stvarima",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravna pomoć",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=U%20UPRAVNIM%20STVARIMA-,pravna%20pomoc,-%C4%8Clanak%2026.%20(N",
+			"razina": 3
+		},
+		{
+			"naslov": "Pružanje pravne pomoći",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=za%20vanjske%20poslove.-,pruzanje%20pravne%20pomoci",
+			"razina": 3
+		},
+		{
+			"naslov": "Odbijanje pružanja pravne pomoći",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odbijanje%20pruzanja%20pravne%20pomoci",
+			"razina": 3
+		},
+		{
+			"naslov": "Troškovi pravne pomoći",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pravna%20pomo%C4%87%20uskra%C4%87uje.-,troskovi%20pravne%20pomoci",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava V. SUDJELOVANJE STRANKE U POSTUPKU",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20v.%20sudjelovanje%20stranke%20u%20postupku",
+			"razina": 2
+		},
+		{
+			"naslov": "Izjašnjavanje stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=izjasnjavanje%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupovna sposobnost stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupovna%20sposobnost%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Zastupanje stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=je%20predmet%20postupka.-,zastupanje%20stranke,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Zakonski zastupnik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=za%20zastupanje%20stranke.-,zakonski%20zastupnik,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Privremeni zastupnik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=ili%20ovla%C5%A1teni%20predstavnik.-,privremeni%20zastupnik,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Zajednički predstavnik i zajednički opunomoćenik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=zajednicki%20predstavnik%20i%20zajednicki%20opunomocenik",
+			"razina": 3
+		},
+		{
+			"naslov": "Opunomoćenik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=u%20tom%20postupku.-,opunomocenik,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Opunomoćenik za primanje pismena",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=primi%20opoziv%20punomo%C4%87i.-,opunomocenik%20za%20primanje%20pismena,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Stručni pomagač",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=se%20odbaciti%20rje%C5%A1enjem.-,strucni%20pomagac,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Smrt stranke, odnosno prestanak postojanja pravne osobe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=smrt%20stranke%2C%20odnosno%20prestanak%20postojanja%20pravne%20osobe",
+			"razina": 3
+		},
+		{
+			"naslov": "DRUGI DIO POKRETANJE I VOĐENJE UPRAVNOG POSTUPKA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=drugi%20dio%20pokretanje%20i%20vo%C4%91enje%20upravnog%20postupka",
+			"razina": 1
+		},
+		{
+			"naslov": "Glava I. POKRETANJE POSTUPKA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20i.%20pokretanje%20postupka",
+			"razina": 2
+		},
+		{
+			"naslov": "Načini pokretanja postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nacini%20pokretanja%20postupka",
+			"razina": 3
+		},
+		{
+			"naslov": "Pokretanje postupka na zahtjev stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pokretanje%20postupka%20na%20zahtjev%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Pokretanje postupka po službenoj dužnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=tijela%20po%20podnesku.-,pokretanje%20postupka%20po%20sluzbenoj%20duznosti",
+			"razina": 3
+		},
+		{
+			"naslov": "Pokretanje postupka javnom objavom",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pokretanje%20postupka%20javnom%20objavom",
+			"razina": 3
+		},
+		{
+			"naslov": "Spajanje i razdvajanje upravnih stvari",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=spajanje%20i%20razdvajanje%20upravnih%20stvari",
+			"razina": 3
+		},
+		{
+			"naslov": "Izmjena zahtjeva",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=se%20zakljuc%CC%8C%20kom%20razdvojiti.-,izmjena%20zahtjeva",
+			"razina": 3
+		},
+		{
+			"naslov": "Odustanak od zahtjeva i obustava postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odustanak%20od%20zahtjeva%20i%20obustava%20postupka",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava II. POSTUPAK RJEŠAVANJA UPRAVNE STVARI",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20ii.%20postupak%20rjesavanja%20upravne%20stvari",
+			"razina": 2
+		},
+		{
+			"naslov": "Utvrđivanje činjeničnog stanja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=utvr%C4%91ivanje%20cinjenicnog%20stanja",
+			"razina": 3
+		},
+		{
+			"naslov": "Neposredno rješavanje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rije%C5%A1iti%20upravnu%20stvar.-,neposredno%20rjesavanje",
+			"razina": 3
+		},
+		{
+			"naslov": "Neposredno rješavanje u postupku pokrenutom po službenoj dužnosti",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=neposredno%20rjesavanje%20u%20postupku%20pokrenutom%20po%20sluzbenoj%20duznosti",
+			"razina": 3
+		},
+		{
+			"naslov": "Neposredno rješavanje u postupku pokrenutom na zahtjev stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=neposredno%20rjesavanje%20u%20postupku%20pokrenutom%20na%20zahtjev%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Ispitni postupak",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=stranke%20mo%C5%BEe%20udovoljiti.-,ispitni%20postupak",
+			"razina": 3
+		},
+		{
+			"naslov": "Prava i dužnosti stranke u ispitnom postupku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prava%20i%20duznosti%20stranke%20u%20ispitnom%20postupku",
+			"razina": 3
+		},
+		{
+			"naslov": "Naknadno priznavanje položaja stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=naknadno%20priznavanje%20polozaja%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Usmena rasprava",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=zaustavlja%20tijek%20postupka.-,usmena%20rasprava",
+			"razina": 3
+		},
+		{
+			"naslov": "Prethodno pitanje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odga%C4%91a%20izvr%C5%A1enje%20rje%C5%A1enja.-,prethodno%20pitanje",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješavanje prethodnog pitanja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rije%C5%A1eno%20prethodno%20pitanje.-,rjesavanje%20prethodnog%20pitanja",
+			"razina": 3
+		},
+		{
+			"naslov": "Nagodba",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=mora%20prekinuti%20postupak.-,nagodba",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava III. DOKAZIVANJE",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20iii.%20dokazivanje",
+			"razina": 2
+		},
+		{
+			"naslov": "Dokazi",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=Glava%20III.%C2%A0%C2%A0%20DOKAZIVANJE-,dokazi,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Osiguranje dokaza",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nepostojanje%20tih%20%C4%8Dinjenica.-,osiguranje%20dokaza,-%C4%8Clanak%2059.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Isprave",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prekida%20tijek%20postupka.-,isprave,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pribavljanje isprava",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pribavljanje%20isprava",
+			"razina": 3
+		},
+		{
+			"naslov": "Svjedoci",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odga%C4%91a%20izvr%C5%A1enje%20rje%C5%A1enja.-,svjedoci,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Obveza svjedočenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prije%20dana%20svjedoc%CC%8Cenja.-,obveza%20svjedocenja,-%C4%8Clanak%2063.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Saslušanje svjedoka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=na%20pojedina%20pitanja.-,saslusanje%20svjedoka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Vještačenje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prisutnost%20zakonskog%20zastupnika.-,vjestacenje,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravila vještačenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=mo%C5%BEe%20biti%20svjedok.-,pravila%20vjestacenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Novčane kazne za svjedoke, odnosno vještake",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=novcane%20kazne%20za%20svjedoke%2C%20odnosno%20vjestake,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Očevid",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odga%C4%91a%20izvr%C5%A1enje%20rje%C5%A1enja.-,ocevid,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dužnost omogućivanja provedbe očevida",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=duznost%20omogucivanja%20provedbe%20ocevida",
+			"razina": 3
+		},
+		{
+			"naslov": "Izjava stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=o%20postupanju%20policije.-,izjava%20stranke,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava IV. RADNJE U POSTUPKU",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20iv.%20radnje%20u%20postupku",
+			"razina": 2
+		},
+		{
+			"naslov": "Podnesci",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=RADNJE%20U%20POSTUPKU-,podnesci,-%C4%8Clanak%2071.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Podnošenje podneska unutar roka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=podnosenje%20podneska%20unutar%20roka",
+			"razina": 3
+		},
+		{
+			"naslov": "Nedostaci u podnesku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nedostaci%20u%20podnesku",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijevod podneska",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=%C4%87e%20odbaciti%20podnesak.-,prijevod%20podneska,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Elektronička komunikacija",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=elektronicka%20komunikacija",
+			"razina": 3
+		},
+		{
+			"naslov": "Zapisnik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=podnesak%20nije%20podnesen.-,zapisnik",
+			"razina": 3
+		},
+		{
+			"naslov": "Zaključak",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nisu%20pravilno%20sastavljeni.-,zakljucak,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Obnavljanje (rekonstrukcija) spisa",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=obnavljanje%20(rekonstrukcija)%20spisa",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava V. ROKOVI",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=sredstava%20javnopravnog%20tijela.-,glava%20v.%20rokovi,-Odre%C4%91ivanje%20rokova,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Određivanje rokova",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=Glava%20V.%C2%A0%C2%A0%20ROKOVI-,odre%C4%91ivanje%20rokova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Računanje rokova",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=opravdanih%20razloga%20produ%C5%BEiti.-,racunanje%20rokova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Nedjelje, blagdani i neradni dani",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=SUDSKA%20PRAKSA%3A%20Presuda-,nedjelje%2C%20blagdani%20i%20neradni%20dani,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Povrat u prijašnje stanje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=sljede%C4%87ega%20radnog%20dana.-,povrat%20u%20prijasnje%20stanje,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava VI. OBAVJEŠĆIVANJE",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20vi.%20obavjescivanje,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Oblici obavješćivanja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=oblici%20obavjescivanja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Obavješćivanje o tijeku postupka i razgledavanje spisa",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=obavjescivanje%20o%20tijeku%20postupka%20i%20razgledavanje%20spisa,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Osobna dostava",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=donosi%20se%20rje%C5%A1enje.-,osobna%20dostava,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Posredna dostava",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=zaposleniku%20odvjetni%C4%8Dkog%20ureda.-,posredna%20dostava,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava zajedničkom predstavniku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=dostava%20zajednickom%20predstavniku,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava u posebnim slučajevima",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=dostava%20u%20posebnim%20slucajevima,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Mjesto dostave",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=se%20neposredno%20stranci.-,mjesto%20dostave,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Promjena adrese stranke i osobe ovlaštene za zastupanje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=promjena%20adrese%20stranke%20i%20osobe%20ovlastene%20za%20zastupanje,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Vrijeme dostave",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pismena%20nisu%20odre%C4%91eni.-,vrijeme%20dostave,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostavnica",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=u%20drugo%20vrijeme.-,dostavnica,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava elektroničkim putem",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=s%20naslovljenom%20osobom.-,dostava%20elektronickim%20putem,-%C4%8Clanak%2094.%20(NN,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava javnom objavom",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=se%20osobnom%20dostavom.-,dostava%20javnom%20objavom,3",
+			"razina": 3
+		},
+		{
+			"naslov": "TREĆI DIO RJEŠAVANJE UPRAVNE STVARI",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=treci%20dio%20rjesavanje%20upravne%20stvari",
+			"razina": 1
+		},
+		{
+			"naslov": "Rješenje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=RJE%C5%A0AVANJE%20UPRAVNE%20STVARI-,rjesenje",
+			"razina": 3
+		},
+		{
+			"naslov": "Oblik rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=i%20drugi%20naziv.-,oblik%20rjesenja",
+			"razina": 3
+		},
+		{
+			"naslov": "Sadržaj rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=otpravak%20usmenog%20rje%C5%A1enja.-,sadrzaj%20rjesenja,-%C4%8Clanak%2098.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješenje u stvarima manjeg značenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rjesenje%20u%20stvarima%20manjeg%20znacenja",
+			"razina": 3
+		},
+		{
+			"naslov": "Djelomično, dopunsko i privremeno rješenje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=takvu%20odluku%20oc%CC%8Citi.-,djelomicno%2C%20dopunsko%20i%20privremeno%20rjesenje",
+			"razina": 3
+		},
+		{
+			"naslov": "Rok za donošenje rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=se%20samostalnim%20rje%C5%A1enjem.-,rok%20za%20donosenje%20rjesenja",
+			"razina": 3
+		},
+		{
+			"naslov": "Predmnjeva usvajanja zahtjeva stranke",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=predmnjeva%20usvajanja%20zahtjeva%20stranke",
+			"razina": 3
+		},
+		{
+			"naslov": "Jamstvo stjecanja prava",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=jamstvo%20stjecanja%20prava",
+			"razina": 3
+		},
+		{
+			"naslov": "Otklanjanje pogrešaka u rješenju",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=otklanjanje%20pogresaka%20u%20rjesenju",
+			"razina": 3
+		},
+		{
+			"naslov": "ČETVRTI DIO PRAVNI LIJEKOVI",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=cetvrti%20dio%20pravni%20lijekovi",
+			"razina": 1
+		},
+		{
+			"naslov": "Glava I. ŽALBA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=DIO%C2%A0%C2%A0%20PRAVNI%20LIJEKOVI-,glava%20i.%20zalba,-Izjavljivanje%20%C5%BEalbe,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Izjavljivanje žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=Glava%20I.%C2%A0%C2%A0%20%C5%BDALBA-,izjavljivanje%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Odricanje od prava na žalbu i odustanak od žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odricanje%20od%20prava%20na%20zalbu%20i%20odustanak%20od%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Predmet žalbenog postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=predmet%20zalbenog%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Sadržaj žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=i%20svrhovitost%20rje%C5%A1enja.-,sadrzaj%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Rok za izjavljivanje žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rok%20za%20izjavljivanje%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Predaja žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=propisan%20du%C5%BEi%20rok.-,predaja%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravo stranke kad je uputa o pravnom lijeku pogrešna",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pravo%20stranke%20kad%20je%20uputa%20o%20pravnom%20lijeku%20pogresna,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Odgodni učinak žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odgodni%20ucinak%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupak i ovlasti prvostupanjskog tijela u povodu žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupak%20i%20ovlasti%20prvostupanjskog%20tijela%20u%20povodu%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupanje drugostupanjskog tijela po primitku žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupanje%20drugostupanjskog%20tijela%20po%20primitku%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupanje i ovlasti drugostupanjskog tijela u povodu žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupanje%20i%20ovlasti%20drugostupanjskog%20tijela%20u%20povodu%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Odbijanje žalbe",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=je%20rje%C5%A1enje%20proizvelo.-,odbijanje%20zalbe,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Poništavanje rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=ponistavanje%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izmjena rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=tijelu%20na%20rje%C5%A1avanje.-,izmjena%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Postupak po žalbi kad prvostupanjsko tijelo na zahtjev stranke nije riješilo u roku",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=postupak%20po%20zalbi%20kad%20prvostupanjsko%20tijelo%20na%20zahtjev%20stranke%20nije%20rijesilo%20u%20roku,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Drugostupanjsko rješenje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=donese%20tra%C5%BEeno%20rje%C5%A1enje.-,drugostupanjsko%20rjesenje,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Rok za donošenje drugostupanjskog rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rok%20za%20donosenje%20drugostupanjskog%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava II. PRIGOVOR",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=propisan%20kra%C4%87i%20rok.-,glava%20ii.%20prigovor,-Izjavljivanje%20prigovora%20i,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Izjavljivanje prigovora i postupanje po prigovoru",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=izjavljivanje%20prigovora%20i%20postupanje%20po%20prigovoru,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava III. OBNOVA POSTUPKA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20iii.%20obnova%20postupka,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Razlozi i rok za obnovu postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=razlozi%20i%20rok%20za%20obnovu%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijedlog za obnovu postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=kao%20i%20stranka.-,prijedlog%20za%20obnovu%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Tijelo nadležno za rješavanje o prijedlogu za obnovu postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=tijelo%20nadlezno%20za%20rjesavanje%20o%20prijedlogu%20za%20obnovu%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pokretanje obnove postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=pokretanje%20obnove%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješenje o obnovi postupka",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=rjesenje%20o%20obnovi%20postupka,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava IV. OGLAŠIVANJE RJEŠENJA NIŠTAVIM",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20iv.%20oglasivanje%20rjesenja%20nistavim,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Oglašivanje rješenja ništavim",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=OGLA%C5%A0IVANJE%20RJE%C5%A0ENJA%20NI%C5%A0TAVIM-,oglasivanje%20rjesenja%20nistavim,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Glava V. PONIŠTAVANJE I UKIDANJE RJEŠENJA",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=glava%20v.%20ponistavanje%20i%20ukidanje%20rjesenja,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Poništavanje i ukidanje nezakonitog rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=ponistavanje%20i%20ukidanje%20nezakonitog%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Ukidanje zakonitog rješenja kojim je stranka stekla neko pravo",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=ukidanje%20zakonitog%20rjesenja%20kojim%20je%20stranka%20stekla%20neko%20pravo,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Nadležnost i postupak poništavanja ili ukidanja rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nadleznost%20i%20postupak%20ponistavanja%20ili%20ukidanja%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Povrat imovine stečene bez pravne osnove",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=povrat%20imovine%20stecene%20bez%20pravne%20osnove,3",
+			"razina": 3
+		},
+		{
+			"naslov": "PETI DIO IZVRŠENJE",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=propisima%20gra%C4%91anskog%20prava.-,peti%20dio%20izvrsenje,-Izvr%C5%A1nost%20rje%C5%A1enja,1",
+			"razina": 1
+		},
+		{
+			"naslov": "Izvršnost rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=PETI%20DIO%C2%A0%C2%A0%20IZVR%C5%A0ENJE-,izvrsnost%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvršenik",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=istekom%20tog%20roka.-,izvrsenik,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Provedba izvršenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=njegovih%20pravnih%20sljednika.-,provedba%20izvrsenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Predmet izvršenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nije%20druk%C4%8Dije%20propisano.-,predmet%20izvrsenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvršenje novčanih obveza",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=ili%20nenov%C4%8Danih%20obveza.-,izvrsenje%20novcanih%20obveza,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvršenje nenovčanih obveza",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=i%20drugim%20sredstvima.-,izvrsenje%20nenovcanih%20obveza,-%C4%8Clanak%20138.%20(NN,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješenje o izvršenju",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nadle%C5%BEnom%20za%20izvr%C5%A1enje.-,rjesenje%20o%20izvrsenju,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Odgoda izvršenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=nema%20odgodni%20u%C4%8Dinak.-,odgoda%20izvrsenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Vrijeme izvršenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=donosi%20se%20rje%C5%A1enje.-,vrijeme%20izvrsenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Prisilno izvršenje nenovčanih obveza novčanom kaznom",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=prisilno%20izvrsenje%20nenovcanih%20obveza%20novcanom%20kaznom,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvršenje nenovčanih obveza putem trećih osoba",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=izvrsenje%20nenovcanih%20obveza%20putem%20trecih%20osoba,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Razmjernost u izvršenju",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=razmjernost%20u%20izvrsenju,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Obustava izvršenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=do%20cilja%20izvr%C5%A1enja.-,obustava%20izvrsenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Otklanjanje posljedica poništavanja ili izmjene izvršenog rješenja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=otklanjanje%20posljedica%20ponistavanja%20ili%20izmjene%20izvrsenog%20rjesenja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvršenje radi osiguranja",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=izvr%C5%A1enje%20odlu%C4%8Duje%20rje%C5%A1enjem.-,izvrsenje%20radi%20osiguranja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Hitno izvršenje",
+			"poveznica": "/z/65/zakon-o-opcem-upravnom-postupku#:~:text=odga%C4%91a%20izvr%C5%A1enje%20rje%C5%A1enja.-,hitno%20izvrsenje,3",
+			"razina": 3
+		}
+	]
+}

@@ -1,0 +1,886 @@
+{
+	"MetaPodaciAkta": [
+		{
+			"naziv": "Zakon o cestama",
+			"NN": "84/2011, 18/2013, 22/2013, 54/2013, 148/2013, 92/2014, 110/2019, 144/2021, 114/2022, 114/2022, 4/2023, 133/2023",
+			"datum": "15.11.2023.",
+			"poveznica": "/z/244/zakon-o-cestama",
+			"protokol": "https://",
+			"osnovniURL": "www.zakon.hr",
+			"akronim": "ZoC"
+		}
+	],
+	"StavkeSadržajaAkta": [
+		{
+			"naslov": "I. OPĆE ODREDBE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=Pro%C4%8Di%C5%A1%C4%87eni%20PODZAKONSKI%20PROPISI-,i.%20opce%20odredbe,-Namjena%20zakona",
+			"razina": 1
+		},
+		{
+			"naslov": "Namjena zakona",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=I.%20OP%C4%86E%20ODREDBE-,namjena%20zakona",
+			"razina": 2
+		},
+		{
+			"naslov": "Instrumenti usklađivanja",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=instrumenti%20uskla%C4%91ivanja",
+			"razina": 2
+		},
+		{
+			"naslov": "Značenje pojmova",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=17.%20velja%C4%8De%202020.).-,znacenje%20pojmova,-%C4%8Clanak%202.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "javne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=1.%20%C2%BB-,javne%20ceste,-%C2%AB%20su%20ceste%20razvrstane",
+			"razina": 3
+		},
+		{
+			"naslov": "autoceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=2.%20%C2%BB-,autoceste,-%C2%AB%20su%20javne%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "državne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=3.%20%C2%BB-,drzavne%20ceste,-%C2%AB%20su%20javne%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "županijske ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=4.%20%C2%BB-,zupanijske%20ceste,-%C2%AB%20su%20javne%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "lokalne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=5.%20%C2%BB-,lokalne%20ceste,-%C2%AB%20su%20javne%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "nerazvrstane ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=6.%20%C2%BB-,nerazvrstane%20ceste,-%C2%AB%20su%20ceste%20koje",
+			"razina": 3
+		},
+		{
+			"naslov": "raskrižje",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=7.%20%C2%BB-,raskrizje,-%C2%AB%20je%20prometna%20povr%C5%A1ina",
+			"razina": 3
+		},
+		{
+			"naslov": "križanje",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=8.%20%C2%BB-,krizanje,-%C2%AB%20je%20prometna%20povr%C5%A1ina",
+			"razina": 3
+		},
+		{
+			"naslov": "željezničko-cestovni prijelaz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=9.%20%C2%BB-,%C5%BEeljezni%C4%8Dko%2Dcestovni%20prijelaz,-%C2%AB%20je%20mjesto%20na",
+			"razina": 3
+		},
+		{
+			"naslov": "zaštitni pojas",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=10.%20%C2%BB-,zastitni%20pojas,-%C2%AB%20je%20zemlji%C5%A1te%20uz",
+			"razina": 3
+		},
+		{
+			"naslov": "priključak na cestu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=11.%20%C2%BB-,prikljucak%20na%20cestu,-%C2%AB%20je%20dio%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "prilaz na cestu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=12.%20%C2%BB-,prilaz%20na%20cestu,-%C2%AB%20je%20ure%C4%91ena%20povr%C5%A1ina",
+			"razina": 3
+		},
+		{
+			"naslov": "redovito održavanje",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=13.%20%C2%BB-,redovito%20odrzavanje,-%C2%AB%20%C4%8Dini%20skup%20mjera",
+			"razina": 3
+		},
+		{
+			"naslov": "izvanredno održavanje",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 3
+		},
+		{
+			"naslov": "prekomjerna uporaba javne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prekomjerna%20uporaba%20javne%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "izvanredni prijevoz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=16.%20%C2%BB-,izvanredni%20prijevoz,-%C2%AB%20je%20prijevoz%20vozilima",
+			"razina": 3
+		},
+		{
+			"naslov": "Hrvatske autoceste d.o.o.",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=17.%20%C2%BB-,hrvatske%20autoceste%20d.o.o.,-%C2%AB%20je%20dru%C5%A1tvo%20s",
+			"razina": 3
+		},
+		{
+			"naslov": "Hrvatske ceste d.o.o.",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=18.%20%C2%BB-,hrvatske%20ceste%20d.o.o.,-%C2%AB%20je%20dru%C5%A1tvo%20s",
+			"razina": 3
+		},
+		{
+			"naslov": "županijska uprava za ceste",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 3
+		},
+		{
+			"naslov": "biciklistička staza",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=20.%20%C2%BB-,biciklisticka%20staza,-%C2%AB%20je%20prometna%20povr%C5%A1ina",
+			"razina": 3
+		},
+		{
+			"naslov": "biciklistička traka",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=21.%20%C2%BB-,biciklisticka%20traka,-%C2%AB%20je%20dio%20kolnika",
+			"razina": 3
+		},
+		{
+			"naslov": "cestarinski prolaz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=22.%20%C2%BB-,cestarinski%20prolaz,-%C2%AB%20ili%20naplatna%20postaja",
+			"razina": 3
+		},
+		{
+			"naslov": "II. JAVNE CESTE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odre%C4%91uju%20posebni%20propisi.-,ii.%20javne%20ceste,-Pravni%20status%20javnih",
+			"razina": 1
+		},
+		{
+			"naslov": "Pravni status javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 2
+		},
+		{
+			"naslov": "Dijelovi javne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=dijelovi%20javne%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Ukidanje statusa javnog dobra u općoj uporabi javnoj cesti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=okoli%C5%A1%20i%20sli%C4%8Dno).-,ukidanje%20statusa%20javnog%20dobra%20u%20opcoj%20uporabi%20javnoj%20cesti",
+			"razina": 2
+		},
+		{
+			"naslov": "Razvrstavanje javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=u%20zemlji%C5%A1nim%20knjigama.-,razvrstavanje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Mjerila za razvrstavanje javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=mjerila%20za%20razvrstavanje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Naknade za korištenje javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=razvrstavanju%20javnih%20cesta-,naknade%20za%20koristenje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Cestarina",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=kori%C5%A1tenje%20javnih%20cesta.-,cestarina,-%C4%8Clanak%209.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Godišnja naknada",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=cestarini%20-%20PRO%C4%8CI%C5%A0%C4%86ENI%20TEKST-,godisnja%20naknada,-%C4%8Clanak%209.a",
+			"razina": 2
+		},
+		{
+			"naslov": "Korisnička naknada",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=javni%20prijevoz%20tereta.-,korisnicka%20naknada,-%C4%8Clanak%209.b",
+			"razina": 2
+		},
+		{
+			"naslov": "Nadzor sustava naplaćivanja korištenja javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=iznosi%20korisni%C4%8Dke%20naknade.-,nadzor%20sustava%20naplacivanja%20koristenja%20javnih%20cesta,-%C4%8Clanak%209.c",
+			"razina": 2
+		},
+		{
+			"naslov": "Stanje javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=koristiti%20neimenovane%20podatke.-,stanje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Opća načela planiranja, projektiranja, gradnje, rekonstrukcije i održavanja javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=opca%20nacela%20planiranja%2C%20projektiranja%2C%20gradnje%2C%20rekonstrukcije%20i%20odrzavanja%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "III. PLANIRANJE I UPRAVLJANJE JAVNIM CESTAMA",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=iii.%20planiranje%20i%20upravljanje%20javnim%20cestama",
+			"razina": 1
+		},
+		{
+			"naslov": "1. Planski temelji",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=UPRAVLJANJE%20JAVNIM%20CESTAMA-,1.%20planski%20temelji,-Strategija%20razvitka%20javnih",
+			"razina": 2
+		},
+		{
+			"naslov": "Strategija razvitka javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=strategija%20razvitka%20javnih%20cesta",
+			"razina": 3
+		},
+		{
+			"naslov": "Tehničko-tehnološko jedinstvo",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=provedbe%20utvr%C4%91enih%20ciljeva.-,tehnicko-tehnolosko%20jedinstvo",
+			"razina": 3
+		},
+		{
+			"naslov": "Prioriteti u građenju i održavanju",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prioriteti%20u%20gra%C4%91enju%20i%20odrzavanju",
+			"razina": 3
+		},
+		{
+			"naslov": "Program građenja i održavanja",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 3
+		},
+		{
+			"naslov": "Godišnji plan",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=razvojem%20Republike%20Hrvatske.-,godisnji%20plan",
+			"razina": 3
+		},
+		{
+			"naslov": "2. Građenje i rekonstrukcija javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=2.%20gra%C4%91enje%20i%20rekonstrukcija%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Poslovi građenja i rekonstrukcije javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 3
+		},
+		{
+			"naslov": "Posebni uvjeti građenja javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=posebni%20uvjeti%20gra%C4%91enja%20javnih%20cesta",
+			"razina": 3
+		},
+		{
+			"naslov": "Građenje komunalnih i drugih objekata unutar cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=gra%C4%91enje%20komunalnih%20i%20drugih%20objekata%20unutar%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "3. Održavanje javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=3.%20odrzavanje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Poslovi održavanja",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=Odr%C5%BEavanje%20javnih%20cesta-,poslovi%20odrzavanja",
+			"razina": 3
+		},
+		{
+			"naslov": "Održavanje javne ceste kroz naselje",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odrzavanje%20javne%20ceste%20kroz%20naselje",
+			"razina": 3
+		},
+		{
+			"naslov": "Održavanje raskrižja u istoj razini",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odrzavanje%20raskrizja%20u%20istoj%20razini",
+			"razina": 3
+		},
+		{
+			"naslov": "Održavanje nadvožnjaka i podvožnjaka i drugih cestovnih objekata",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odrzavanje%20nadvoznjaka%20i%20podvoznjaka%20i%20drugih%20cestovnih%20objekata",
+			"razina": 3
+		},
+		{
+			"naslov": "Održavanje željezničko-cestovnih prijelaza i križanja",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odrzavanje%20zeljeznicko-cestovnih%20prijelaza%20i%20krizanja",
+			"razina": 3
+		},
+
+		{
+			"naslov": "4. Ostali poslovi upravljanja javnim cestama",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=4.%20ostali%20poslovi%20upravljanja%20javnim%20cestama",
+			"razina": 2
+		},
+		{
+			"naslov": "Baza podataka o javnim cestama",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=skup%C5%A1tine%20i%20%C5%BEupana.-,baza%20podataka%20o%20javnim%20cestama",
+			"razina": 3
+		},
+		{
+			"naslov": "5. Ustupanje radova",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=d.o.o.-,5.%20ustupanje%20radova",
+			"razina": 2
+		},
+		{
+			"naslov": "Preuzimanje na održavanje i upravljanje infrastrukture izgrađene na i izvan cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=preuzimanje%20na%20odrzavanje%20i%20upravljanje%20infrastrukture%20izgra%C4%91ene%20na%20i%20izvan%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "6. Nužni radovi održavanja prilikom štrajka",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=6.%20nuzni%20radovi%20odrzavanja%20prilikom%20strajka",
+			"razina": 2
+		},
+		{
+			"naslov": "7. Imovinskopravni odnosi",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=7.%20imovinskopravni%20odnosi",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvlaštenje nekretnina",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=7.%20Imovinskopravni%20odnosi-,izvlastenje%20nekretnina",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvlaštenje radi izmještanja infrastrukture izvan cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odr%C5%BEavanja%20javne%20ceste.-,izvlastenje%20radi%20izmjestanja%20infrastrukture%20izvan%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Potpuno izvlaštenje radi izmještanja infrastrukture izvan cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=potpuno%20izvlastenje%20radi%20izmjestanja%20infrastrukture%20izvan%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Nepotpuno izvlaštenje radi izmještanja infrastrukture izvan cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=nepotpuno%20izvlastenje%20radi%20izmjestanja%20infrastrukture%20izvan%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvlaštenje radi izgradnje infrastrukture za potrebe javne ceste izvan cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=izvlastenje%20radi%20izgradnje%20infrastrukture%20za%20potrebe%20javne%20ceste%20izvan%20cestovnog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Stupanje u posjed",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=34.%20ovoga%20Zakona.-,stupanje%20u%20posjed,-%C4%8Clanak%2041.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Naknada za nekretnine u vlasništvu Republike Hrvatske",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=naknada%20za%20nekretnine%20u%20vlasnistvu%20republike%20hrvatske",
+			"razina": 3
+		},
+		{
+			"naslov": "Promjena granice pomorskog dobra",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=promjena%20granice%20pomorskog%20dobra",
+			"razina": 3
+		},
+		{
+			"naslov": "Ukidanje statusa javnog vodnog dobra u vlasništvu Republike Hrvatske",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ukidanje%20statusa%20javnog%20vodnog%20dobra%20u%20vlasnistvu%20republike%20hrvatske",
+			"razina": 3
+		},
+
+		{
+			"naslov": "IV. MJERE ZA ZAŠTITU JAVNIH CESTA I PROMETA",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=iv.%20mjere%20za%20zastitu%20javnih%20cesta%20i%20prometa",
+			"razina": 1
+		},
+		{
+			"naslov": "Ograničenja radi zaštite javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ogranicenja%20radi%20zastite%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvanredni prijevoz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=obavijestiti%20nadle%C5%BEnu%20inspekciju.-,izvanredni%20prijevoz",
+			"razina": 2
+		},
+		{
+			"naslov": "Troškovi izvanrednog prijevoza",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=troskovi%20izvanrednog%20prijevoza",
+			"razina": 2
+		},
+		{
+			"naslov": "Kontrola vozila koje obavlja prijevoz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=kontrola%20vozila%20koje%20obavlja%20prijevoz",
+			"razina": 2
+		},
+		{
+			"naslov": "Naknada štete od divljači",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=naknada%20stete%20od%20divljaci",
+			"razina": 2
+		},
+		{
+			"naslov": "Priključak i prilaz",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=PRAKSA%3A%20Presuda%2C%20Presuda-,prikljucak%20i%20prilaz",
+			"razina": 2
+		},
+		{
+			"naslov": "Ukidanje priključka",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=na%20javnu%20cestu.-,ukidanje%20prikljucka",
+			"razina": 2
+		},
+		{
+			"naslov": "Autobusna stajališta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=autobusna%20stajalista",
+			"razina": 2
+		},
+		{
+			"naslov": "Zaštitni pojas",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=nadle%C5%BEnog%20za%20graditeljstvo.-,zastitni%20pojas",
+			"razina": 2
+		},
+		{
+			"naslov": "Preglednost na javnoj cesti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=sukladno%20posebnim%20propisima.-,preglednost%20na%20javnoj%20cesti",
+			"razina": 2
+		},
+		{
+			"naslov": "Obavljanje radova na javnoj cesti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=obavljanje%20radova%20na%20javnoj%20cesti",
+			"razina": 2
+		},
+		{
+			"naslov": "Objekti, uređaji i instalacije uz javnu cestu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=objekti%2C%20ure%C4%91aji%20i%20instalacije%20uz%20javnu%20cestu",
+			"razina": 2
+		},
+		{
+			"naslov": "Reklame uz javne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=reklame%20uz%20javne%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Zatvaranje javne ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=zatvaranje%20javne%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Prometni znakovi, signalizacija i oprema, turistička i ostala signalizacija",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prometni%20znakovi%2C%20signalizacija%20i%20oprema%2C%20turisticka%20i%20ostala%20signalizacija",
+			"razina": 2
+		},
+		{
+			"naslov": "Obveze pravne osobe koja upravlja javnom cestom pri izvođenju radova",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=obveze%20pravne%20osobe%20koja%20upravlja%20javnom%20cestom%20pri%20izvo%C4%91enju%20radova",
+			"razina": 2
+		},
+		{
+			"naslov": "Minimalni sigurnosni zahtjevi za tunele",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=vrijeme%20intenzivnog%20prometa.-,minimalni%20sigurnosni%20zahtjevi%20za%20tunele",
+			"razina": 2
+		},
+		{
+			"naslov": "Tuneli koji su u prometu po ranijim propisima",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=tuneli%20koji%20su%20u%20prometu%20po%20ranijim%20propisima",
+			"razina": 2
+		},
+		{
+			"naslov": "Upravno tijelo za sigurnost tunela",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=upravno%20tijelo%20za%20sigurnost%20tunela",
+			"razina": 2
+		},
+		{
+			"naslov": "Upravitelj tunela",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=suglasnost%20drugog%20tijela.-,upravitelj%20tunela,-%C4%8Clanak%2064.a",
+			"razina": 2
+		},
+		{
+			"naslov": "Službenik za sigurnost u tunelu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=sluzbenik%20za%20sigurnost%20u%20tunelu",
+			"razina": 2
+		},
+		{
+			"naslov": "Upravljanje sigurnošću cestovne infrastrukture",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=upravljanje%20sigurnoscu%20cestovne%20infrastrukture",
+			"razina": 2
+		},
+		{
+			"naslov": "Aktivnosti za poboljšanje sigurnosti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=3.%20ovoga%20Zakona.-,aktivnosti%20za%20poboljsanje%20sigurnosti",
+			"razina": 2
+		},
+		{
+			"naslov": "Ocjena utjecaja na sigurnost u cestovnom prometu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=reviziji%20cestovne%20sigurnosti-,ocjena%20utjecaja%20na%20sigurnost%20u%20cestovnom%20prometu",
+			"razina": 2
+		},
+		{
+			"naslov": "Revizija sigurnosti cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=rekonstrukcije%20postoje%C4%87e%20ceste.-,revizija%20sigurnosti%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Revizor cestovne sigurnosti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=razdoblju%20kori%C5%A1tenja%20cesta.-,revizor%20cestovne%20sigurnosti",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvješća revizora cestovne sigurnosti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=izvjesca%20revizora%20cestovne%20sigurnosti",
+			"razina": 2
+		},
+		{
+			"naslov": "Procjena sigurnosti mreže TEM cesta, autocesta i primarnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=detaljno%20pisano%20obrazlo%C5%BEenje.-,procjena%20sigurnosti%20mreze%20tem%20cesta%2C%20autocesta%20i%20primarnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Provjere sigurnosti cesta i upravljanje podacima",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=provjere%20sigurnosti%20cesta%20i%20upravljanje%20podacima",
+			"razina": 2
+		},
+		{
+			"naslov": "Periodične provjere sigurnosti cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=svakih%20pet%20godina.-,periodicne%20provjere%20sigurnosti%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Ciljane provjere sigurnosti cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=doti%C4%8Dnu%20cestovnu%20infrastrukturu.-,ciljane%20provjere%20sigurnosti%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Zajedničke provjere sigurnosti cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=temelji%20na%20riziku.-,zajednicke%20provjere%20sigurnosti%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "zvješćivanje Europske komisije",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=svakih%20%C5%A1est%20godina.-,izvjescivanje%20europske%20komisije",
+			"razina": 2
+		},
+		{
+			"naslov": "Inteligentni prometni sustavi u cestovnom prometu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=inteligentni%20prometni%20sustavi%20u%20cestovnom%20prometu",
+			"razina": 2
+		},
+		{
+			"naslov": "Koordinacijsko tijelo za ITS",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=koordinacijsko%20tijelo%20za%20its",
+			"razina": 2
+		},
+		{
+			"naslov": "Korištenje cestovnog zemljišta",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 2
+		},
+		{
+			"naslov": "Javne ovlasti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=na%20javnoj%20cesti-,javne%20ovlasti",
+			"razina": 2
+		},
+
+		{
+			"naslov": "V. KONCESIJE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=dana%20dostave%20stranci.-,v.%20koncesije,-Koncesija",
+			"razina": 1
+		},
+		{
+			"naslov": "Koncesija",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=V.%20KONCESIJE-,koncesija",
+			"razina": 2
+		},
+		{
+			"naslov": "Pripremne radnje za davanje koncesije",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 2
+		},
+		{
+			"naslov": "Postupak davanja koncesije",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=d.o.o.-,postupak%20davanja%20koncesije",
+			"razina": 2
+		},
+		{
+			"naslov": "Odluka o odabiru najpovoljnijeg ponuditelja",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=odluka%20o%20odabiru%20najpovoljnijeg%20ponuditelja",
+			"razina": 2
+		},
+		{
+			"naslov": "Ugovor o koncesiji",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=i%20podnesenoj%20ponudi.-,ugovor%20o%20koncesiji",
+			"razina": 2
+		},
+
+		{
+			"naslov": "VI. PRAVNE OSOBE KOJE UPRAVLJAJU JAVNIM CESTAMA",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=vi.%20pravne%20osobe%20koje%20upravljaju%20javnim%20cestama",
+			"razina": 1
+		},
+		{
+			"naslov": "1. Hrvatske autoceste d.o.o.",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=1.%20hrvatske%20autoceste%20d.o.o.",
+			"razina": 2
+		},
+		{
+			"naslov": "2. Hrvatske ceste d.o.o.",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=2.%20hrvatske%20ceste%20d.o.o.",
+			"razina": 2
+		},
+		{
+			"naslov": "Predmet poslovanja",
+			"poveznica": "/z/244/zakon-o-cestama#",
+			"razina": 3
+		},
+		{
+			"naslov": "3. Županijska uprava za ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=3.%20zupanijska%20uprava%20za%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Predmet poslovanja",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=uprava%20za%20ceste-,predmet%20poslovanja",
+			"razina": 3
+		},
+		{
+			"naslov": "Ostvarivanje prava osnivača",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ostvarivanje%20prava%20osnivaca",
+			"razina": 3
+		},
+		{
+			"naslov": "VII. FINANCIRANJE JAVNIH CESTA",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=vii.%20financiranje%20javnih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvori sredstava",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=FINANCIRANJE%20JAVNIH%20CESTA-,izvori%20sredstava,-%C4%8Clanak%2086.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Visina naknade",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ili%20prava%20gra%C4%91enja.-,visina%20naknade",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravo na nadoknadu neostvarene godišnje naknade i cestarine",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=pravo%20na%20nadoknadu%20neostvarene%20godisnje%20naknade%20i%20cestarine",
+			"razina": 3
+		},
+		{
+			"naslov": "Naknada za financiranje građenja i održavanja javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=objekata%20s%20naplatom-,naknada%20za%20financiranje%20gra%C4%91enja%20i%20odrzavanja%20javnih%20cesta,-%C4%8Clanak%2091.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Mjerila za raspored sredstava na županijske uprave za ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=mjerila%20za%20raspored%20sredstava%20na%20zupanijske%20uprave%20za%20ceste",
+			"razina": 3
+		},
+		{
+			"naslov": "Uplata na račune",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=u%202017.%20godini-,uplata%20na%20racune",
+			"razina": 3
+		},
+		{
+			"naslov": "Javni kapital",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=motornih%20priklju%C4%8Dnih%20vozila-,javni%20kapital,-%C4%8Clanak%2094.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Korištenje javnog kapitala",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=koristenje%20javnog%20kapitala",
+			"razina": 3
+		},
+		{
+			"naslov": "Amortizacija i ispravak vrijednosti javnih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=amortizacija%20i%20ispravak%20vrijednosti%20javnih%20cesta",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijenos javnih i nerazvrstanih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijenos%20javnih%20i%20nerazvrstanih%20cesta",
+			"razina": 3
+		},
+
+		{
+			"naslov": "VIII. NERAZVRSTANE CESTE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=viii.%20nerazvrstane%20ceste",
+			"razina": 1
+		},
+		{
+			"naslov": "Definicija nerazvrstane ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=definicija%20nerazvrstane%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Dijelovi nerazvrstane ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=dijelovi%20nerazvrstane%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravni status nerazvrstane ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=pravni%20status%20nerazvrstane%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Upis nerazvrstanih cesta u zemljišne knjige",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=Presuda%2C%20Presuda%2C%20Rje%C5%A1enje-,upis%20nerazvrstanih%20cesta%20u%20zemljisne%20knjige",
+			"razina": 2
+		},
+		{
+			"naslov": "Ukidanje statusa javnog dobra u općoj uporabi nerazvrstanoj cesti",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ukidanje%20statusa%20javnog%20dobra%20u%20opcoj%20uporabi%20nerazvrstanoj%20cesti",
+			"razina": 2
+		},
+		{
+			"naslov": "Zahtjevi za planiranje i projektiranje nerazvrstanih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=zahtjevi%20za%20planiranje%20i%20projektiranje%20nerazvrstanih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvlaštenje radi građenja nerazvrstane ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=izvlastenje%20radi%20gra%C4%91enja%20nerazvrstane%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Upravljanje nerazvrstanim cestama",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=upravljanje%20nerazvrstanim%20cestama",
+			"razina": 2
+		},
+		{
+			"naslov": "Financiranje nerazvrstanih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=Presuda%2C%20Presuda%2C%20Rje%C5%A1enje-,financiranje%20nerazvrstanih%20cesta",
+			"razina": 2
+		},
+		{
+			"naslov": "Financiranje dijela troškova zimske službe na nerazvrstanim cestama",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=financiranje%20dijela%20troskova%20zimske%20sluzbe%20na%20nerazvrstanim%20cestama",
+			"razina": 2
+		},
+		{
+			"naslov": "Zaštita nerazvrstavanih cesta",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=zastita%20nerazvrstavanih%20cesta",
+			"razina": 2
+		},
+
+		{
+			"naslov": "IX. NADZOR I INSPEKCIJA JAVNIH CESTA",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=ix.%20nadzor%20i%20inspekcija%20javnih%20cesta",
+			"razina": 1
+		},
+		{
+			"naslov": "Upravni nadzor",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=INSPEKCIJA%20JAVNIH%20CESTA-,upravni%20nadzor",
+			"razina": 2
+		},
+		{
+			"naslov": "Inspekcijski nadzor",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=za%20komunalno%20gospodarstvo.-,inspekcijski%20nadzor",
+			"razina": 2
+		},
+		{
+			"naslov": "Prava i dužnosti inspektora",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prava%20i%20duznosti%20inspektora",
+			"razina": 2
+		},
+		{
+			"naslov": "X. PREKRŠAJNE ODREDBE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=x.%20prekrsajne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "XI. PRIJELAZNE I ZAVRŠNE ODREDBE",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=xi.%20prijelazne%20i%20zavrsne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "Dovršenje započetih postupaka",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=dovrsenje%20zapocetih%20postupaka",
+			"razina": 2
+		},
+		{
+			"naslov": "Usklađenje postojećih imovinskopravnih odnosa na javnim cestama",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=uskla%C4%91enje%20postojecih%20imovinskopravnih%20odnosa%20na%20javnim%20cestama",
+			"razina": 2
+		},
+		{
+			"naslov": "Upis javnih cesta u zemljišne knjige",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=upis%20javnih%20cesta%20u%20zemljisne%20knjige",
+			"razina": 2
+		},
+		{
+			"naslov": "Upis nerazvrstanih cesta u zemljišne knjige",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=vlasni%C5%A1tvo%20Republike%20Hrvatske.-,upis%20nerazvrstanih%20cesta%20u%20zemljisne%20knjige",
+			"razina": 2
+		},
+		{
+			"naslov": "Nastavak rada Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o.",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=nastavak%20rada%20hrvatskih%20autocesta%20d.o.o.%20i%20hrvatskih%20cesta%20d.o.o.",
+			"razina": 2
+		},
+		{
+			"naslov": "Nastavak rada županijskih uprava za ceste",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=nastavak%20rada%20zupanijskih%20uprava%20za%20ceste",
+			"razina": 2
+		},
+		{
+			"naslov": "Usklađenje stanja objekata u raskrižjima s važećim propisima",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=uskla%C4%91enje%20stanja%20objekata%20u%20raskrizjima%20s%20vazecim%20propisima",
+			"razina": 2
+		},
+		{
+			"naslov": "Usklađenje postavljenih reklama s važećim propisima",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=uskla%C4%91enje%20postavljenih%20reklama%20s%20vazecim%20propisima",
+			"razina": 2
+		},
+		{
+			"naslov": "Provedbeni propisi",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=povrat%20dijela%20naknade.-,provedbeni%20propisi",
+			"razina": 2
+		},
+		{
+			"naslov": "Važenje potvrda izdanih na temelju ranijih propisa",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=vazenje%20potvrda%20izdanih%20na%20temelju%20ranijih%20propisa",
+			"razina": 2
+		},
+		{
+			"naslov": "Stupanje na snagu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=kojima%20su%20izdane.-,stupanje%20na%20snagu",
+			"razina": 2
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 54/13",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2054%2F13",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 92/14",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2092%2F14",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 110/19",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20110%2F19",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 144/21",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20144%2F21",
+			"razina": 1
+		},
+		{
+			"naslov": "Rješenje Ustavnog suda iz NN 114/22",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=rjesenje%20ustavnog%20suda%20iz%20nn%20114%2F22",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 114/22",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20114%2F22",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe Zakona o povlasticama u prometu iz NN 133/23",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prijelazne%20i%20zavrsne%20odredbe%20zakona%20o%20povlasticama%20u%20prometu%20iz%20nn%20133%2F23",
+			"razina": 1
+		},
+		{
+			"naslov": "Započeti postupci",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=evidentiranja%20kori%C5%A1tenja%20autoceste.-,zapoceti%20postupci",
+			"razina": 2
+		},
+		{
+			"naslov": "Prilagodba informacijske infrastrukture",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=prilagodba%20informacijske%20infrastrukture",
+			"razina": 2
+		},
+		{
+			"naslov": "Završne odredbe",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=snagu%20ovoga%20Zakona.-,zavrsne%20odredbe",
+			"razina": 2
+		},
+		{
+			"naslov": "Stupanje na snagu",
+			"poveznica": "/z/244/zakon-o-cestama#:~:text=i%2034%2F23).-,stupanje%20na%20snagu",
+			"razina": 2
+		}
+	]
+}

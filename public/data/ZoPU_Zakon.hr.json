@@ -1,0 +1,976 @@
+{
+	"MetaPodaciAkta": [
+		{
+			"naziv": "Zakon o prostornom uređenju",
+			"NN": "153/2013, 65/2017, 114/2018, 39/2019, 98/2019, 67/2023",
+			"datum": " 29.6.2023.",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju",
+			"protokol": "https://",
+			"osnovniURL": "www.zakon.hr",
+      "akronim": "ZoPU"
+		}
+	],
+	"StavkeSadržajaAkta": [
+		{
+			"naslov": "1. OPĆE ODREDBE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PRO%C4%8CI%C5%A0%C4%86ENI%20PODZAKONSKI%20PROPISI-,1.%20opce%20odredbe,-Predmet%20Zakona%20i,1",
+			"razina": 1
+		},
+		{
+			"naslov": "Predmet Zakona i cilj sustava prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=predmet%20zakona%20i%20cilj%20sustava%20prostornog%20ure%C4%91enja,1",
+			"razina": 2
+		},
+
+		{
+			"naslov": "Pojmovi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=i%20kulturnih%20dobara.-,pojmovi,-%C4%8Clanak%203.%20(NN,1",
+			"razina": 2
+		},
+		{
+			"naslov": "Elektronička oglasna ploča",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=elektroni%C4%8Dka%20oglasna%20plo%C4%8Da",
+			"razina": 3
+		},
+		{
+			"naslov": "Etapno građenje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=2.-,etapno%20gra%C4%91enje,-je%20gra%C4%91enje%20pojedinih",
+			"razina": 3
+		},
+
+		{
+			"naslov": "Građevna čestica",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.-,gra%C4%91evna%20cestica%20,-je%20u%20na%C4%8Delu",
+			"razina": 3
+		},
+		{
+			"naslov": "GML format",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=4.-,gml%20format%20,-je%20standardni%20otvoreni",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevinska (bruto) površina zgrade",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=gra%C4%91evinska%20(bruto)%20povrsina%20zgrade%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevine javne i društvene namjene",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=gra%C4%91evine%20javne%20i%20drustvene%20namjene%20",
+			"razina": 3
+		},
+
+		{
+			"naslov": "građevinsko područje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=8.-,gra%C4%91evinsko%20podrucje,-je%20podru%C4%8Dje%20odre%C4%91eno",
+			"razina": 3
+		},
+		{
+			"naslov": "građevinsko zemljište",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=9.-,gra%C4%91evinsko%20zemljiste%20,-je%20zemlji%C5%A1te%20unutar",
+			"razina": 3
+		},
+		{
+			"naslov": "Infrastruktura",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=10.-,infrastruktura%20,-su%20komunalne%2C%20prometne",
+			"razina": 3
+		},
+		{
+			"naslov": "izdvojeno građevinsko područje izvan naselja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=11.-,izdvojeno%20gra%C4%91evinsko%20podrucje%20izvan%20naselja,-je%20podru%C4%8Dje%20odre%C4%91eno",
+			"razina": 3
+		},
+		{
+			"naslov": "izdvojeni dio građevinskog područja naselja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=12.-,izdvojeni%20dio%20gra%C4%91evinskog%20podrucja%20naselja,-je%20odvojeni%20dio",
+			"razina": 3
+		},
+		{
+			"naslov": "Izgrađeni dio građevinskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izgra%C4%91eni%20dio%20gra%C4%91evinskog%20podrucja%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Izgrađena infrastruktura",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izgra%C4%91ena%20infrastruktura",
+			"razina": 3
+		},
+		{
+			"naslov": "Javnopravna tijela",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=15.-,javnopravna%20tijela,-su%20tijela%20dr%C5%BEavne",
+			"razina": 3
+		},
+		{
+			"naslov": "Katastar",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=16.-,katastar%20,-je%20katastar%20zemlji%C5%A1ta",
+			"razina": 3
+		},
+		{
+			"naslov": "Katastarski ured",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=17.-,katastarski%20ured%20je,-podru%C4%8Dni%20ured%20za",
+			"razina": 3
+		},
+		{
+			"naslov": "Komunalna infrastruktura",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=komunalna%20infrastruktura",
+			"razina": 3
+		},
+		{
+			"naslov": "Lokacijski uvjeti",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=19.-,lokacijski%20uvjeti%20,-su%20kvantitativni%20i",
+			"razina": 3
+		},
+		{
+			"naslov": "Ministar",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=20.-,ministar%20,-je%20%C4%8Delnik%20tijela",
+			"razina": 3
+		},
+		{
+			"naslov": "Ministarstvo",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=21.-,ministarstvo%20,-je%20tijelo%20dr%C5%BEavne",
+			"razina": 3
+		},
+		{
+			"naslov": "Morsko područje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=22.-,morsko%20podrucje,-su%20unutarnje%20morske",
+			"razina": 3
+		},
+		{
+			"naslov": "Namjena prostora, površina, zemljišta, odnosno građevina",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=namjena%20prostora%2C%20povrsina%2C%20zemljista%2C%20odnosno%20gra%C4%91evina",
+			"razina": 3
+		},
+		{
+			"naslov": "Neizgrađeni dio građevinskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=24.-,neizgra%C4%91eni%20dio%20gra%C4%91evinskog%20podrucja%20,-je%20podru%C4%8Dje%20odre%C4%91eno",
+			"razina": 3
+		},
+		{
+			"naslov": "Neuređeni dio građevinskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=neure%C4%91eni%20dio%20gra%C4%91evinskog%20podrucja%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Osnovna infrastruktura",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=osnovna%20infrastruktura%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Obalna crta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=27.-,obalna%20crta,-je%20crta%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Obuhvat prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=28.-,obuhvat%20prostornog%20plana,-je%20prostorna%20ili",
+			"razina": 3
+		},
+		{
+			"naslov": "parcelacijski elaborat",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=29.-,parcelacijski%20elaborat%20,-je%20geodetski%20elaborat",
+			"razina": 3
+		},
+		{
+			"naslov": "prostorno planiranje kao interdisciplinarna djelatnost",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prostorno%20planiranje%20kao%20interdisciplinarna%20djelatnost",
+			"razina": 3
+		},
+		{
+			"naslov": "prostorno planiranje morskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=31.-,prostorno%20planiranje%20morskog%20podrucja,-je%20proces%20prostornog",
+			"razina": 3
+		},
+		{
+			"naslov": "posebni uvjeti",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=posebni%20uvjeti%20su%20uvjeti",
+			"razina": 3
+		},
+		{
+			"naslov": "površina javne namjene",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=33.-,povrsina%20javne%20namjene,-je%20svaka%20povr%C5%A1ina",
+			"razina": 3
+		},
+		{
+			"naslov": "površine za gradnju sunčanih elektrana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=povrsine%20za%20gradnju%20suncanih%20elektrana",
+			"razina": 3
+		},
+		{
+			"naslov": "površine za gradnju agrosunčanih elektrana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=povrsine%20za%20gradnju%20agrosuncanih%20elektrana",
+			"razina": 3
+		},
+		{
+			"naslov": "površine za gradnju geotermalnih bušotina za poljoprivredne i industrijske svrhe",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=povrsine%20za%20gradnju%20geotermalnih%20busotina%20za%20poljoprivredne%20i%20industrijske%20svrhe",
+			"razina": 3
+		},
+		{
+			"naslov": "površine za gradnju građevina za potrebe Ministarstva obrane, Ministarstva unutarnjih poslova i Hrvatske narodne banke",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=povrsine%20za%20gradnju%20gra%C4%91evina%20za%20potrebe%20ministarstva%20obrane%2C%20ministarstva%20unutarnjih%20poslova%20i%20hrvatske%20narodne%20banke",
+			"razina": 3
+		},
+		{
+			"naslov": "prometna površina",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=38.-,prometna%20povrsina,-je%20povr%C5%A1ina%20javne",
+			"razina": 3
+		},
+		{
+			"naslov": "prostor",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=39.-,prostor%20,-je%20sastav%20fizi%C4%8Dkih",
+			"razina": 3
+		},
+		{
+			"naslov": "prostorni standardi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=40.-,prostorni%20standardi%20,-su%20skup%20uvjeta",
+			"razina": 3
+		},
+		{
+			"naslov": "prostorni planovi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=41.-,prostorni%20planovi%20,-su%20Dr%C5%BEavni%20plan",
+			"razina": 3
+		},
+		{
+			"naslov": "složeni zahvat u prostoru",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=42.-,slozeni%20zahvat%20u%20prostoru,-je%20zahvat%20u",
+			"razina": 3
+		},
+		{
+			"naslov": "stručno upravno tijelo",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=43.-,strucno%20upravno%20tijelo%20,-je%20upravni%20odjel",
+			"razina": 3
+		},
+		{
+			"naslov": "transformacija prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=%20transformacija%20prostornih%20planova",
+			"razina": 3
+		},
+		{
+			"naslov": "upravno tijelo",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=45.-,upravno%20tijelo%20,-je%20upravni%20odjel",
+			"razina": 3
+		},
+		{
+			"naslov": "urbana preobrazba",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=46.-,urbana%20preobrazba%20,-je%20skup%20planskih",
+			"razina": 3
+		},
+		{
+			"naslov": "urbana sanacija",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=47.-,urbana%20sanacija,-je%20skup%20planskih",
+			"razina": 3
+		},
+		{
+			"naslov": "urbanistički plan uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=48.-,urbanisticki%20plan%20ure%C4%91enja,-je%20urbanisti%C4%8Dki%20plan",
+			"razina": 3
+		},
+		{
+			"naslov": "uvjeti priključenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=49.-,uvjeti%20prikljucenja,-su%20uvjeti%20za",
+			"razina": 3
+		},
+		{
+			"naslov": "veliki grad",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=50.-,veliki%20grad%20je,-veliki%20grad%20i",
+			"razina": 3
+		},
+		{
+			"naslov": "vrsnoća izgrađenog prostora",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=vrsnoca%20izgra%C4%91enog%20prostora",
+			"razina": 3
+		},
+		{
+			"naslov": "zahvat u prostoru",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=52.-,zahvat%20u%20prostoru,-je%20svako%20gra%C4%91enje",
+			"razina": 3
+		},
+		{
+			"naslov": "zahtjevi za izradu prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=53.-,zahtjevi%20za%20izradu%20prostornog%20plana,-su%20prijedlozi%2C%20podaci",
+			"razina": 3
+		},
+		{
+			"naslov": "zelena infrastruktura ",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=zelena%20infrastruktura%20",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena i donošenje posebnih propisa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=primjena%20i%20donosenje%20posebnih%20propisa",
+			"razina": 2
+		},
+		{
+			"naslov": "Ovlaštenja ministra",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=provedbi%20ovoga%20Zakona.-,ovlastenja%20ministra,-%C4%8Clanak%205.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Ciljevi prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=postupaka%20elektroni%C4%8Dkim%20putem-,Ciljevi%20prostornog%20ure%C4%91enja,-%C4%8Clanak%206.",
+			"razina": 2
+		},
+		{
+			"naslov": "Načela prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=te%20njihovoj%20provedbi.-,Na%C4%8Dela%20prostornog%20ure%C4%91enja,-%C4%8Clanak%207.",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo integralnog pristupa u prostornom planiranju",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=za%20prostorno%20ure%C4%91enje.-,Na%C4%8Delo%20integralnog%20pristupa%20u%20prostornom%20planiranju,-%C4%8Clanak%208.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo uvažavanja znanstveno i stručno utvrđenih činjenica",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20uvazavanja%20znanstveno%20i%20strucno%20utvr%C4%91enih%20cinjenica",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo prostorne održivosti razvitka i vrsnoće gradnje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20prostorne%20odrzivosti%20razvitka%20i%20vrsnoce%20gradnje",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo ostvarivanja i zaštite javnog i pojedinačnog interesa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20ostvarivanja%20i%20zastite%20javnog%20i%20pojedinacnog%20interesa",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo horizontalne integracije u zaštiti prostora",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20horizontalne%20integracije%20u%20zastiti%20prostora",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo vertikalne integracije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20vertikalne%20integracije",
+			"razina": 2
+		},
+		{
+			"naslov": "Načelo javnosti i slobodnog pristupa podacima i dokumentima značajnim za prostorno uređenje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacelo%20javnosti%20i%20slobodnog%20pristupa%20podacima%20i%20dokumentima%20znacajnim%20za%20prostorno%20ure%C4%91enje",
+			"razina": 2
+		},
+		{
+			"naslov": "2. SUBJEKTI PROSTORNOG UREĐENJA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=2.%20subjekti%20prostornog%20ure%C4%91enja",
+			"razina": 1
+		},
+		{
+			"naslov": "Osiguranje učinkovitosti i stručnosti prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=osiguranje%20ucinkovitosti%20i%20strucnosti%20prostornog%20ure%C4%91enja",
+			"razina": 2
+		},
+		{
+			"naslov": "Osiguranje međusobne usklađenosti i provedbe prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=osiguranje%20me%C4%91usobne%20uskla%C4%91enosti%20i%20provedbe%20prostornih%20planova",
+			"razina": 2
+		},
+		{
+			"naslov": "Osiguranje interesa i potreba posebnih upravnih područja i gospodarstva",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=osiguranje%20interesa%20i%20potreba%20posebnih%20upravnih%20podrucja%20i%20gospodarstva",
+			"razina": 2
+		},
+
+		{
+			"naslov": "Zavod za prostorni razvoj",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izradu%20prostornih%20planova.-,zavod%20za%20prostorni%20razvoj,-%C4%8Clanak%2018.%20(NN",
+			"razina": 2
+		},
+
+		{
+			"naslov": "Zavod za prostorno uređenje županije, odnosno Grada Zagreba",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=Brisan.-,Zavod%20za%20prostorno%20ure%C4%91enje%20%C5%BEupanije%2C%20odnosno%20Grada%20Zagreba,-%C4%8Clanak%2026.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Zavod za prostorno uređenje velikog grada",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=to%20zatra%C5%BEi%20Ministarstvo.-,Zavod%20za%20prostorno%20ure%C4%91enje%20velikog%20grada,-%C4%8Clanak%2028.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Povjerenstvo za ocjenu arhitektonske uspješnosti",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=to%20zatra%C5%BEi%20gradona%C4%8Delnik.-,Povjerenstvo%20za%20ocjenu%20arhitektonske%20uspje%C5%A1nosti,-%C4%8Clanak%2029.",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravne osobe i ovlašteni arhitekti",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=pravne%20osobe%20i%20ovlasteni%20arhitekti",
+			"razina": 2
+		},
+		{
+			"naslov": "3. PRAĆENJE STANJA U PROSTORU I PODRUČJU PROSTORNOG UREĐENJA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=3.%20pracenje%20stanja%20u%20prostoru%20i%20podrucju%20prostornog%20ure%C4%91enja",
+			"razina": 1
+		},
+		{
+			"naslov": "Informacijski sustav prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PODRU%C4%8CJU%20PROSTORNOG%20URE%C4%90ENJA-,Informacijski%20sustav%20prostornog%20ure%C4%91enja,-%C4%8Clanak%2031.",
+			"razina": 2
+		},
+		{
+			"naslov": "Lokacijska informacija",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=sustava%20bez%20naknade.-,Lokacijska%20informacija,-%C4%8Clanak%2036.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Uredba o informacijskom sustavu",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nije%20upravni%20akt.-,Uredba%20o%20informacijskom%20sustavu,-%C4%8Clanak%2037.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Pristup podacima o nekretninama i vlasništvu",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=pristup%20podacima%20o%20nekretninama%20i%20vlasnistvu",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvješće o stanju u prostoru",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=i%20posebnim%20propisima.-,Izvje%C5%A1%C4%87e%20o%20stanju%20u%20prostoru,-%C4%8Clanak%2039.",
+			"razina": 2
+		},
+		{
+			"naslov": "4. UVJETI PLANIRANJA PROSTORA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=4.%20uvjeti%20planiranja%20prostora",
+			"razina": 1
+		},
+		{
+			"naslov": "4.1. GRAĐEVINSKO PODRUČJE I PLANIRANJE IZVAN GRAĐEVINSKOG PODRUČJA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=4.1.%20gra%C4%91evinsko%20podrucje%20i%20planiranje%20izvan%20gra%C4%91evinskog%20podrucja",
+			"razina": 2
+		},
+		{
+			"naslov": "4.2. ZAŠTIĆENO OBALNO PODRUČJE MORA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=4.2.%20zasticeno%20obalno%20podrucje%20mora",
+			"razina": 2
+		},
+		{
+			"naslov": "Određivanje građevinskih područja u prostoru ograničenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=odre%C4%91ivanje%20gra%C4%91evinskih%20podrucja%20u%20prostoru%20ogranicenja",
+			"razina": 3
+		},
+		{
+			"naslov": "Zahvati u prostoru ograničenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=zahvati%20u%20prostoru%20ogranicenja",
+			"razina": 3
+		},
+		{
+			"naslov": "Planiranje ugostiteljsko-turističke i sportsko-rekreacijske namjene",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=planiranje%20ugostiteljsko-turisticke%20i%20sportsko-rekreacijske%20namjene",
+			"razina": 3
+		},
+		{
+			"naslov": "Planiranje morskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=zahvata%20u%20prostoru.-,Planiranje%20morskog%20podru%C4%8Dja,-%C4%8Clanak%2049.a",
+			"razina": 3
+		},
+
+		{
+			"naslov": "Značenje Strategije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=RAZVOJA%20REPUBLIKE%20HRVATSKE-,znacenje%20strategije",
+			"razina": 2
+		},
+		{
+			"naslov": "Planiranje morskog područja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=zahvata%20u%20prostoru.-,Planiranje%20morskog%20podru%C4%8Dja,-%C4%8Clanak%2049.a",
+			"razina": 2
+		},
+		{
+			"naslov": "5. STRATEGIJA PROSTORNOG RAZVOJA REPUBLIKE HRVATSKE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=5.%20strategija%20prostornog%20razvoja%20republike%20hrvatske",
+			"razina": 1
+		},
+		{
+			"naslov": "Značenje Strategije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=RAZVOJA%20REPUBLIKE%20HRVATSKE-,znacenje%20strategije,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Sadržaj Strategije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=suprotnosti%20sa%20Strategijom.-,sadrzaj%20strategije,2",
+			"razina": 2
+		},
+		{
+			"naslov": "Izrada, donošenje i objava Strategije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izrada%2C%20donosenje%20i%20objava%20strategije,2",
+			"razina": 2
+		},
+		{
+			"naslov": "6. PROSTORNI PLANOVI",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.%20prostorni%20planovi",
+			"razina": 1
+		},
+		{
+			"naslov": "6.1. OPĆE ODREDBE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.%20PROSTORNI%20PLANOVI-,6.1.%20opce%20odredbe,-Predmet%20prostornih%20planova",
+			"razina": 2
+		},
+		{
+			"naslov": "Predmet prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=predmet%20prostornih%20planova",
+			"razina": 3
+		},
+		{
+			"naslov": "Sadržaj prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prete%C5%BEnom%20postoje%C4%87em%20stanju.-,sadrzaj%20prostornih%20planova,-%C4%8Clanak%2054.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Mjere ublažavanja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=o%20prostornim%20planovima-,mjere%20ublazavanja,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravna priroda prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=pravna%20priroda%20prostornih%20planova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Oblik prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=oblik%20prostornih%20planova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Razine prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=razine%20prostornih%20planova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Usklađenost prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Financiranje izrade prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=financiranje%20izrade%20prostornih%20planova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostupnost prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=dostupnost%20prostornih%20planova,3",
+			"razina": 3
+		},
+		{
+			"naslov": "6.2. PROSTORNI PLANOVI DRŽAVNE RAZINE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.2.%20prostorni%20planovi%20drzavne%20razine",
+			"razina": 2
+		},
+		{
+			"naslov": "Državni plan prostornog razvoja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PLANOVI%20DR%C5%BDAVNE%20RAZINE-,drzavni%20plan%20prostornog%20razvoja,-%C4%8Clanak%2066.%20(NN",
+			"razina": 4
+		},
+		{
+			"naslov": "Prostorni plan područja posebnih obilježja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=ure%C4%91enja%20dr%C5%BEavnog%20zna%C4%8Daja.-,prostorni%20plan%20podrucja%20posebnih%20obiljezja,-%C4%8Clanak%2068.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Urbanistički plan uređenja državnog značaja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=s%20prioritetnim%20aktivnostima.-,urbanisticki%20plan%20ure%C4%91enja%20drzavnog%20znacaja,-%C4%8Clanak%2070.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "6.3. PROSTORNI PLANOVI PODRUČNE (REGIONALNE) RAZINE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.3.%20prostorni%20planovi%20podrucne%20(regionalne)%20razine",
+			"razina": 2
+		},
+		{
+			"naslov": "Prostorni plan županije i Prostorni plan Grada Zagreba",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PODRU%C4%8CNE%20(REGIONALNE)%20RAZINE-,prostorni%20plan%20zupanije%20i%20prostorni%20plan%20grada%20zagreba",
+			"razina": 3
+		},
+		{
+			"naslov": "Urbanistički plan uređenja županijskog značaja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=generalni%20urbanisti%C4%8Dki%20plan.-,urbanisticki%20plan%20ure%C4%91enja%20zupanijskog%20znacaja,-%C4%8Clanak%2074.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "6.4. PROSTORNI PLANOVI LOKALNE RAZINE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.4.%20prostorni%20planovi%20lokalne%20razine",
+			"razina": 2
+		},
+		{
+			"naslov": "Prostorni plan uređenja grada, odnosno općine",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PLANOVI%20LOKALNE%20RAZINE-,prostorni%20plan%20ure%C4%91enja%20grada%2C%20odnosno%20opcine",
+			"razina": 3
+		},
+		{
+			"naslov": "Generalni urbanistički plan",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=urbanisti%C4%8Dki%20plan%20ure%C4%91enja.-,generalni%20urbanisticki%20plan",
+			"razina": 3
+		},
+		{
+			"naslov": "Urbanistički plan uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=urbanisti%C4%8Dki%20plan%20ure%C4%91enja.-,urbanisticki%20plan%20ure%C4%91enja,-%C4%8Clanak%2079.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "6.5. POSTUPAK IZRADE I DONOŠENJA PROSTORNIH PLANOVA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.5.%20postupak%20izrade%20i%20donosenja%20prostornih%20planova",
+			"razina": 1
+		},
+		{
+			"naslov": "Nositelj izrade prostornog plana i koordinacija izrade prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nositelj%20izrade%20prostornog%20plana%20i%20koordinacija%20izrade%20prostornog%20plana",
+			"razina": 3
+		},
+		{
+			"naslov": "Odgovorni voditelj izrade nacrta prijedloga prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izra%C4%91iva%C4%8D%20prostornog%20plana.-,odgovorni%20voditelj%20izrade%20nacrta%20prijedloga%20prostornog%20plana,-%C4%8Clanak%2082.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Iniciranje izrade prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=iniciranje%20izrade%20prostornog%20plana",
+			"razina": 3
+		},
+		{
+			"naslov": "Odluka o izradi prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izrade%20prostornog%20plana.-,odluka%20o%20izradi%20prostornog%20plana,-%C4%8Clanak%2086.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Zahtjevi za izradu prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=53.-,zahtjevi%20za%20izradu%20prostornog%20plana,-su%20prijedlozi%2C%20podaci",
+			"razina": 3
+		},    
+		{
+			"naslov": "Stručna rješenja prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=1.%20ovoga%20%C4%8Dlanka.-,strucna%20rjesenja%20prostornog%20plana",
+			"razina": 3
+		},
+		{
+			"naslov": "Obveza provedbe javne rasprave",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obveza%20provedbe%20javne%20rasprave",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijedlog prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=planom%20dr%C5%BEavne%20razine.-,prijedlog%20prostornog%20plana,-%C4%8Clanak%2095.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Objava javne rasprave",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=koji%20utvr%C4%91uje%20Ministarstvo.-,objava%20javne%20rasprave,-%C4%8Clanak%2096.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Posebna obavijest o javnoj raspravi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=posebna%20obavijest%20o%20javnoj%20raspravi",
+			"razina": 3
+		},
+		{
+			"naslov": "Javni uvid",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=urbanisti%C4%8Dkog%20plana%20ure%C4%91enja.-,javni%20uvid,-%C4%8Clanak%2098.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Javno izlaganje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=traje%20trideset%20dana.-,javno%20izlaganje",
+			"razina": 3
+		},
+		{
+			"naslov": "Način sudjelovanja sudionika u javnoj raspravi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nacin%20sudjelovanja%20sudionika%20u%20javnoj%20raspravi",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvješće o javnoj raspravi",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=1.%20ovoga%20%C4%8Dlanka.-,izvjesce%20o%20javnoj%20raspravi,-%C4%8Clanak%20102.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Ponovna javna rasprava",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijedloga%20prostornog%20plana.-,ponovna%20javna%20rasprava,-%C4%8Clanak%20104.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Konačni prijedlog prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=SUDSKA%20PRAKSA%3A%20Presuda-,konacni%20prijedlog%20prostornog%20plana,-%C4%8Clanak%20105.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Obavijest sudionicima javne rasprave",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obavijest%20sudionicima%20javne%20rasprave",
+			"razina": 3
+		},
+		{
+			"naslov": "Mišljenje zavoda",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijedloga%20i%20primjedbi.-,misljenje%20zavoda,-%C4%8Clanak%20107.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Suglasnost Ministarstva",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prostorno%20ure%C4%91enje%20%C5%BEupanije.-,suglasnost%20ministarstva,-%C4%8Clanak%20108.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Nadležnost za donošenje prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nadleznost%20za%20donosenje%20prostornih%20planova",
+			"razina": 3
+		},
+		{
+			"naslov": "Objava i sadržaj odluke o donošenju prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=objava%20i%20sadrzaj%20odluke%20o%20donosenju%20prostornog%20plana",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava dokumenata prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=dostava%20dokumenata%20prostornog%20ure%C4%91enja",
+			"razina": 3
+		},
+		{
+			"naslov": "Izmjene i dopune te zasebno stavljanje izvan snage prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izmjene%20i%20dopune%20te%20zasebno%20stavljanje%20izvan%20snage%20prostornih%20planova",
+			"razina": 3
+		},
+		{
+			"naslov": "6.6. POSTUPAK TRANSFORMACIJE PROSTORNIH PLANOVA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=6.6.%20postupak%20transformacije%20prostornih%20planova",
+			"razina": 1
+		},
+		{
+			"naslov": "7. PROVEDBA PROSTORNIH PLANOVA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.%20provedba%20prostornih%20planova",
+			"razina": 1
+		},
+		{
+			"naslov": "7.1. ZAJEDNIČKE ODREDBE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.1.%20zajednicke%20odredbe",
+			"razina": 2
+		},
+		{
+			"naslov": "Provedba zahvata u prostoru",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.1.%20ZAJEDNI%C4%8CKE%20ODREDBE-,provedba%20zahvata%20u%20prostoru,-%C4%8Clanak%20114.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Nadležnost za izdavanje akata za provedbu prostornih planova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nadleznost%20za%20izdavanje%20akata%20za%20provedbu%20prostornih%20planova",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena propisa u postupku izdavanja akta za provedbu prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=primjena%20propisa%20u%20postupku%20izdavanja%20akta%20za%20provedbu%20prostornog%20plana",
+			"razina": 3
+		},
+		{
+			"naslov": "Odluka o koncesiji prema posebnom propisu",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=odluka%20o%20koncesiji%20prema%20posebnom%20propisu",
+			"razina": 3
+		},
+		{
+			"naslov": "7.2. LOKACIJSKA DOZVOLA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.2.%20lokacijska%20dozvola",
+			"razina": 2
+		},
+		{
+			"naslov": "Zahvati u prostoru za koje se izdaje lokacijska dozvola",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=zahvati%20u%20prostoru%20za%20koje%20se%20izdaje%20lokacijska%20dozvola",
+			"razina": 3
+		},
+		{
+			"naslov": "Provedba zahvata u prostoru koji nisu građenje",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=provedba%20zahvata%20u%20prostoru%20koji%20nisu%20gra%C4%91enje",
+			"razina": 3
+		},
+		{
+			"naslov": "Zahtjev za izdavanje lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izvr%C5%A1ne%20lokacijske%20dozvole.-,zahtjev%20za%20izdavanje%20lokacijske%20dozvole,-%C4%8Clanak%20127.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Dokaz pravnog interesa za izdavanje lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=dokaz%20pravnog%20interesa%20za%20izdavanje%20lokacijske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Idejni projekt",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=upravlja%20tim%20zemlji%C5%A1tem.-,idejni%20projekt,-%C4%8Clanak%20128.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Utvrđivanje usklađenosti (nostrifikacija) idejnog projekta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=utvr%C4%91ivanje%20uskla%C4%91enosti%20(nostrifikacija)%20idejnog%20projekta",
+			"razina": 3
+		},
+		{
+			"naslov": "Obavijest o načinu provedbe Zakona i drugih propisa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obavijest%20o%20nacinu%20provedbe%20zakona%20i%20drugih%20propisa",
+			"razina": 3
+		},
+		{
+			"naslov": "Stranke u postupku izdavanja lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=stranke%20u%20postupku%20izdavanja%20lokacijske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Uvid u spis predmeta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=u%20spis%20predmeta).-,uvid%20u%20spis%20predmeta,-%C4%8Clanak%20142.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Uvjeti za izdavanje lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=uvjeti%20za%20izdavanje%20lokacijske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Izmjena i/ili dopuna lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izmjena%20i%2Fili%20dopuna%20lokacijske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Važenje lokacijske dozvole",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=vazenje%20lokacijske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "7.3. DOZVOLA ZA PROMJENU NAMJENE I UPORABU GRAĐEVINE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.3.%20dozvola%20za%20promjenu%20namjene%20i%20uporabu%20gra%C4%91evine",
+			"razina": 2
+		},
+		{
+			"naslov": "7.4. RJEŠENJE O UTVRĐIVANJU GRAĐEVNE ČESTICE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.4.%20rjesenje%20o%20utvr%C4%91ivanju%20gra%C4%91evne%20cestice",
+			"razina": 2
+		},
+		{
+			"naslov": "7.5. PARCELACIJA GRAĐEVINSKOG ZEMLJIŠTA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=7.5.%20parcelacija%20gra%C4%91evinskog%20zemljista",
+			"razina": 2
+		},
+		{
+			"naslov": "Uvjeti parcelacije",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=PARCELACIJA%20GRA%C4%90EVINSKOG%20ZEMLJI%C5%A0TA-,uvjeti%20parcelacije",
+			"razina": 3
+		},
+		{
+			"naslov": "Potvrda parcelacijskog elaborata",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=potvrda%20parcelacijskog%20elaborata",
+			"razina": 3
+		},
+		{
+			"naslov": "8. UREĐENJE GRAĐEVINSKOG ZEMLJIŠTA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=8.%20ure%C4%91enje%20gra%C4%91evinskog%20zemljista",
+			"razina": 1
+		},
+		{
+			"naslov": "Cilj i sadržaj uređenja građevinskog zemljišta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=cilj%20i%20sadrzaj%20ure%C4%91enja%20gra%C4%91evinskog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Obveza uređenja građevinskog zemljišta i investitor infrastrukture",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obveza%20ure%C4%91enja%20gra%C4%91evinskog%20zemljista%20i%20investitor%20infrastrukture",
+			"razina": 3
+		},
+		{
+			"naslov": "Redoslijed uređenja građevinskog zemljišta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=redoslijed%20ure%C4%91enja%20gra%C4%91evinskog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "9. IMOVINSKI INSTITUTI UREĐENJA GRAĐEVINSKOG ZEMLJIŠTA",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=9.%20imovinski%20instituti%20ure%C4%91enja%20gra%C4%91evinskog%20zemljista",
+			"razina": 1
+		},
+		{
+			"naslov": "Ugovor o financiranju uređenja građevinskog zemljišta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=URE%C4%90ENJA%20GRA%C4%90EVINSKOG%20ZEMLJI%C5%A0TA-,ugovor%20o%20financiranju%20ure%C4%91enja%20gra%C4%91evinskog%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijenos zemljišta u vlasništvo jedinice lokalne samouprave",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijenos%20zemljista%20u%20vlasnistvo%20jedinice%20lokalne%20samouprave",
+			"razina": 3
+		},
+		{
+			"naslov": "Obveza prodaje zemljišta",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obveza%20prodaje%20zemljista",
+			"razina": 3
+		},
+		{
+			"naslov": "Pravo prvokupa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=ozakonjenje%20nezakonitih%20zgrada.-,pravo%20prvokupa",
+			"razina": 3
+		},
+		{
+			"naslov": "12. PRIJELAZNE I ZAVRŠNE ODREDBE",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=12.%20prijelazne%20i%20zavrsne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "Započeti postupci",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=I%20ZAVR%C5%A0NE%20ODREDBE-,zapoceti%20postupci",
+			"razina": 3
+		},
+		{
+			"naslov": "Lokacijska dozvola i rješenja Ministarstva",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=lokacijska%20dozvola%20i%20rjesenja%20ministarstva",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena posebnih propisa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=primjena%20posebnih%20propisa",
+			"razina": 3
+		},
+		{
+			"naslov": "Obavljanje upravnih i stručnih poslova",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=obavljanje%20upravnih%20i%20strucnih%20poslova",
+			"razina": 3
+		},
+		{
+			"naslov": "Državni plan prostornog razvoja, uredbe i pravilnici",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=drzavni%20plan%20prostornog%20razvoja%2C%20uredbe%20i%20pravilnici",
+			"razina": 3
+		},
+		{
+			"naslov": "Dokumenti prostornog uređenja",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=nije%20propisano%20druk%C4%8Dije.-,dokumenti%20prostornog%20ure%C4%91enja,-%C4%8Clanak%20198.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Odluka o izradi prostornog plana",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=izrade%20prostornog%20plana.-,Odluka%20o%20izradi%20prostornog%20plana,-%C4%8Clanak%2086.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Izvješće o stanju u prostoru",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=odlukom%20se%20obustavlja.-,izvjesce%20o%20stanju%20u%20prostoru",
+			"razina": 3
+		},
+		{
+			"naslov": "Prestanak važenja propisa",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prestanak%20vazenja%20propisa",
+			"razina": 3
+		},
+		{
+			"naslov": "Stupanje na snagu Zakona",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=stupanje%20na%20snagu%20zakona",
+			"razina": 3
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 65/17",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2065%2F17",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 114/18",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20114%2F18",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 39/19",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2039%2F19",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 98/19",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2098%2F19",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 67/23",
+			"poveznica": "/z/689/zakon-o-prostornom-uredenju#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2067%2F23",
+			"razina": 1
+		}
+	]
+}

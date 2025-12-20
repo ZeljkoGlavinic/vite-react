@@ -1,4 +1,4 @@
-import { procitajJSON } from './procitajJSON'
+import { procitajJSON } from '../../../utils/procitajJSON'
 import { VezaPodrobno } from './VezaPodrobno'
 
 function StrukturiraniPopisPodrobnihVeza() {
@@ -13,6 +13,7 @@ function StrukturiraniPopisPodrobnihVeza() {
 						punaPoveznica={poveznica}
 						naslov={naslov}
 						razina={razina}
+						key={poveznica}
 					/>
 				)
 			})}

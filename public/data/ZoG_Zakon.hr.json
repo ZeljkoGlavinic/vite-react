@@ -1,0 +1,935 @@
+{
+	"MetaPodaciAkta": [
+		{
+			"naziv": "Zakon o gradnji",
+			"NN": "153/2013, 20/2017, 39/2019, 125/2019, 145/2024",
+			"datum": "1.1.2015.",
+			"poveznica": "/z/690/zakon-o-gradnji",
+			"protokol": "https://",
+			"osnovniURL": "www.zakon.hr",
+			"akronim": "ZoG"
+		}
+	],
+	"StavkeSadržajaAkta": [
+		{
+			"naslov": "1. OPĆE ODREDBE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=Upravni%20sud-,1.%20opce%20odredbe,-Predmet%20i%20cilj",
+			"razina": 1
+		},
+		{
+			"naslov": "Predmet i cilj Zakona",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=predmet%20i%20cilj%20zakona",
+			"razina": 2
+		},
+		{
+			"naslov": "Primjena Zakona",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=do%202050.%20godine.-,primjena%20zakona",
+			"razina": 2
+		},
+		{
+			"naslov": "Pojmovi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=nije%20druk%C4%8Dije%20propisano.-,pojmovi,-%C4%8Clanak%203.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "dubinska obnova",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=1.-,dubinska%20obnova,-je%20energetska%20obnova",
+			"razina": 3
+		},
+		{
+			"naslov": "elektronička oglasna ploča",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=elektronicka%20oglasna%20ploca%20",
+			"razina": 3
+		},
+		{
+			"naslov": "energetski certifikat",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=3.-,energetski%20certifikat,-je%20certifikat%20iz",
+			"razina": 3
+		},
+		{
+			"naslov": "energetska obnova zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=4.-,energetska%20obnova%20zgrade,-je%20primjena%20mjera",
+			"razina": 3
+		},
+		{
+			"naslov": "energetsko svojstvo zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=5.-,energetsko%20svojstvo%20zgrade,-je%20izra%C4%8Dunata%20ili",
+			"razina": 3
+		},
+		{
+			"naslov": "generator topline",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=6.-,generator%20topline,-je%20dio%20sustava",
+			"razina": 3
+		},
+		{
+			"naslov": "GML format",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=7.-,gml%20format,-je%20standardni%20otvoreni",
+			"razina": 3
+		},
+		{
+			"naslov": "gradilište",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.-,gradiliste%20,-je%20zemlji%C5%A1te%20i",
+			"razina": 3
+		},
+		{
+			"naslov": "gradnja",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=9.-,gradnja%20,-je%20projektiranje%20i",
+			"razina": 3
+		},
+		{
+			"naslov": "građenje",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=10.-,gra%C4%91enje%20,-je%20izvedba%20gra%C4%91evinskih",
+			"razina": 3
+		},
+		{
+			"naslov": "građevina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.-,gra%C4%91evina%20,-je%20gra%C4%91enjem%20nastao",
+			"razina": 3
+		},
+		{
+			"naslov": "Informacijski sustav energetskih certifikata (IEC)",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=informacijski%20sustav%20energetskih%20certifikata%20(iec)%20",
+			"razina": 3
+		},
+		{
+			"naslov": "iskolčenje građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=13.-,iskolcenje%20gra%C4%91evine%20,-je%20geodetski%20prijenos",
+			"razina": 3
+		},
+		{
+			"naslov": "javnopravna tijela",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=14.-,javnopravna%20tijela,-su%20tijela%20dr%C5%BEavne",
+			"razina": 3
+		},
+		{
+			"naslov": "katastar",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=15.-,katastar%20,-je%20katastar%20zemlji%C5%A1ta",
+			"razina": 3
+		},
+		{
+			"naslov": "Metodologija provođenja energetskog pregleda zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=metodologija%20provo%C4%91enja%20energetskog%20pregleda%20zgrade%20",
+			"razina": 3
+		},
+		{
+			"naslov": "mikroizolirani sustav",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=mikroizolirani%20sustav%20",
+			"razina": 3
+		},
+		{
+			"naslov": "mjesto za punjenje",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=18.-,mjesto%20za%20punjenje%20,-je%20su%C4%8Delje%20putem",
+			"razina": 3
+		},
+		{
+			"naslov": "ministar",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=19.-,ministar%20,-je%20%C4%8Delnik%20tijela",
+			"razina": 3
+		},
+		{
+			"naslov": "Ministarstvo",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=20.-,ministarstvo%20,-je%20tijelo%20dr%C5%BEavne",
+			"razina": 3
+		},
+		{
+			"naslov": "održavanje građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=21.-,odrzavanje%20gra%C4%91evine,-je%20izvedba%20gra%C4%91evinskih",
+			"razina": 3
+		},
+		{
+			"naslov": "oprema",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=22.-,oprema%20,-su%20pojedina%C4%8Dni%20ure%C4%91aji",
+			"razina": 3
+		},
+		{
+			"naslov": "postojeća građevina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=23.-,postojeca%20gra%C4%91evina%20,-je%20gra%C4%91evina%20izgra%C4%91ena",
+			"razina": 3
+		},
+		{
+			"naslov": "posebni uvjeti",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=24.-,posebni%20uvjeti%20,-su%20uvjeti%20za",
+			"razina": 3
+		},
+		{
+			"naslov": "potvrda glavnog projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=25.-,potvrda%20glavnog%20projekta%20,-je%20potvrda%20da",
+			"razina": 3
+		},
+		{
+			"naslov": "postrojenje",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=26.-,postrojenje%20,-je%20skup%20svrhovito",
+			"razina": 3
+		},
+		{
+			"naslov": "pripremni radovi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=27.-,pripremni%20radovi%20,-su%20gra%C4%91enje%20privremenih",
+			"razina": 3
+		},
+		{
+			"naslov": "rekonstrukcija građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=rekonstrukcija%20gra%C4%91evine",
+			"razina": 3
+		},
+		{
+			"naslov": "složena građevina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=29.-,slozena%20gra%C4%91evina,-je%20sklop%20vi%C5%A1e",
+			"razina": 3
+		},
+		{
+			"naslov": "sustav automatizacije i upravljanja zgradom",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=sustav%20automatizacije%20i%20upravljanja%20zgradom%20",
+			"razina": 3
+		},
+		{
+			"naslov": "tehnički sustav zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=tehnicki%20sustav%20zgrade",
+			"razina": 3
+		},
+		{
+			"naslov": "ugovor o energetskom učinku",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=ugovor%20o%20energetskom%20ucinku",
+			"razina": 3
+		},
+		{
+			"naslov": "ugradnja",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=33.-,ugradnja%20,-je%20izvedba%20gra%C4%91evinskih",
+			"razina": 3
+		},
+		{
+			"naslov": "uklanjanje građevine ili njezina dijela",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=uklanjanje%20gra%C4%91evine%20ili%20njezina%20dijela",
+			"razina": 3
+		},
+		{
+			"naslov": "ukupna korisna površina zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=ukupna%20korisna%20povrsina%20zgrade%20",
+			"razina": 3
+		},
+		{
+			"naslov": "upravno tijelo",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=36.-,upravno%20tijelo,-je%20upravni%20odjel",
+			"razina": 3
+		},
+		{
+			"naslov": "uvjeti priključenja",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=37.-,uvjeti%20prikljucenja,-su%20uvjeti%20za",
+			"razina": 3
+		},
+		{
+			"naslov": "zgrada",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=38.-,zgrada%20,-je%20zatvorena%20i",
+			"razina": 3
+		},
+		{
+			"naslov": "zgrada gotovo nulte energije",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=zgrada%20gotovo%20nulte%20energije",
+			"razina": 3
+		},
+		{
+			"naslov": "značajna obnova",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=40.-,znacajna%20obnova,-je%20obnova%20zgrade",
+			"razina": 3
+		},
+		{
+			"naslov": "Razvrstavanje građevina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=razvrstavanje%20gra%C4%91evina",
+			"razina": 2
+		},
+		{
+			"naslov": "1. skupina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=zahtjevnima%2C%20kako%20slijedi%3A-,skupina%20,-%E2%80%93%20gra%C4%91evine%20za%20koje",
+			"razina": 3
+		},
+		{
+			"naslov": "2.a skupina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gradnju%20izdaje%20Ministarstvo-,2.a%20skupina,-%E2%80%93%20gra%C4%91evine%20za%20koje",
+			"razina": 3
+		},
+		{
+			"naslov": "2.b skupina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=za%20ekolo%C5%A1ku%20mre%C5%BEu-,2.b%20skupina,-%E2%80%93%20gra%C4%91evine%20za%20koje",
+			"razina": 3
+		},
+		{
+			"naslov": "3.a skupina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=za%20ekolo%C5%A1ku%20mre%C5%BEu-,3.a%20skupina,-%E2%80%93%20gra%C4%91evine%20za%20koje",
+			"razina": 3
+		},
+		{
+			"naslov": "3.b skupina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=utvr%C4%91uju%20posebni%20uvjeti-,3.b%20skupina%20,-%E2%80%93%20zgrade%20stambene%20namjene",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena i donošenje posebnih propisa",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=primjena%20i%20donosenje%20posebnih%20propisa",
+			"razina": 2
+		},
+		{
+			"naslov": "Ovlaštenja ministra",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=provedbi%20ovoga%20Zakona.-,ovlastenja%20ministra,-%C4%8Clanak%206.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "2. TEMELJNI ZAHTJEVI ZA GRAĐEVINU",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=2.%20temeljni%20zahtjevi%20za%20gra%C4%91evinu",
+			"razina": 1
+		},
+		{
+			"naslov": "Obveza ispunjavanja temeljnih i drugih zahtjeva za građevinu",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=obveza%20ispunjavanja%20temeljnih%20i%20drugih%20zahtjeva%20za%20gra%C4%91evinu",
+			"razina": 2
+		},
+		{
+			"naslov": "Temeljni zahtjevi za građevinu",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=i%20posebnim%20propisima.-,temeljni%20zahtjevi%20za%20gra%C4%91evinu",
+			"razina": 2
+		},
+		{
+			"naslov": "Mehanička otpornost i stabilnost",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=uporaba%20prirodnih%20izvora.-,mehanicka%20otpornost%20i%20stabilnost",
+			"razina": 2
+		},
+		{
+			"naslov": "Sigurnost u slučaju požara",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=nerazmjerna%20izvornom%20uzroku.-,sigurnost%20u%20slucaju%20pozara",
+			"razina": 2
+		},
+		{
+			"naslov": "Higijena, zdravlje i okoliš",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=uzeta%20u%20obzir.-,higijena%2C%20zdravlje%20i%20okolis",
+			"razina": 2
+		},
+		{
+			"naslov": "Sigurnost i pristupačnost tijekom uporabe",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=povr%C5%A1ini%20unutar%20gra%C4%91evine.-,sigurnost%20i%20pristupacnost%20tijekom%20uporabe",
+			"razina": 2
+		},
+		{
+			"naslov": "Zaštita od buke",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=osoba%20smanjene%20pokretljivosti.-,zastita%20od%20buke",
+			"razina": 2
+		},
+		{
+			"naslov": "Gospodarenje energijom i očuvanje topline",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=u%20zadovoljavaju%C4%87im%20uvjetima.-,gospodarenje%20energijom%20i%20ocuvanje%20topline",
+			"razina": 2
+		},
+		{
+			"naslov": "Održiva uporaba prirodnih izvora",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91enja%20i%20razgradnje.-,odrziva%20uporaba%20prirodnih%20izvora",
+			"razina": 2
+		},
+		{
+			"naslov": "Odstupanje od temeljnih zahtjeva za građevinu",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=odstupanje%20od%20temeljnih%20zahtjeva%20za%20gra%C4%91evinu",
+			"razina": 2
+		},
+		{
+			"naslov": "Tehnički propisi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=nije%20upravni%20akt.-,tehnicki%20propisi",
+			"razina": 2
+		},
+		{
+			"naslov": "Ispitivanje određenih dijelova građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=za%20asfaltne%20kolnike-,ispitivanje%20odre%C4%91enih%20dijelova%20gra%C4%91evine",
+			"razina": 2
+		},
+		{
+			"naslov": "Dopuštena odstupanja u građenju",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=dopustena%20odstupanja%20u%20gra%C4%91enju",
+			"razina": 2
+		},
+		{
+			"naslov": "3. ENERGETSKA UČINKOVITOST U ZGRADARSTVU",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=3.%20energetska%20ucinkovitost%20u%20zgradarstvu",
+			"razina": 1
+		},
+		{
+			"naslov": "Zahtjevi energetske učinkovitosti",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=zahtjevi%20energetske%20ucinkovitosti",
+			"razina": 2
+		},
+		{
+			"naslov": "Zgrade gotovo nulte energije",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=za%C5%A1titi%20u%20zgradama-,zgrade%20gotovo%20nulte%20energije,-%C4%8Clanak%2021.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Promicanje elektromobilnosti i uspostava infrastrukture za punjenje u zgradama",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=promicanje%20elektromobilnosti%20i%20uspostava%20infrastrukture%20za%20punjenje%20u%20zgradama",
+			"razina": 2
+		},
+		{
+			"naslov": "Redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=zna%C4%8Dajne%20obnove%20zgrade.-,redoviti%20pregled%20sustava%20grijanja%20i%20sustava%20hla%C4%91enja%20ili%20klimatizacije%20u%20zgradi,-%C4%8Clanak%2022.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Energetski certifikat zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=i%20gospodarski%20izvedivo.-,energetski%20certifikat%20zgrade,-%C4%8Clanak%2023.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Energetski pregled zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=svim%20posjetiteljima%20zgrade.-,energetski%20pregled%20zgrade,-%C4%8Clanak%2026.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Osoba ovlaštena za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=osoba%20ovlastena%20za%20energetsko%20certificiranje%2C%20energetski%20pregled%20zgrade%20i%20redoviti%20pregled%20sustava%20grijanja%20i%20sustava%20hla%C4%91enja%20ili%20klimatizacije%20u%20zgradi",
+			"razina": 2
+		},
+		{
+			"naslov": "Strane osobe",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=u%20prometu%20nekretnine.-,strane%20osobe,-%C4%8Clanak%2035.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Neovisna kontrola energetskog certifikata i izvješća o redovitom pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=neovisna%20kontrola%20energetskog%20certifikata%20i%20izvjesca%20o%20redovitom%20pregled%20sustava%20grijanja%20i%20sustava%20hla%C4%91enja%20ili%20klimatizacije%20u%20zgradi",
+			"razina": 2
+		},
+		{
+			"naslov": "Ukidanje ovlaštenja i suglasnosti",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=ukidanje%20ovlastenja%20i%20suglasnosti",
+			"razina": 2
+		},
+		{
+			"naslov": "Informacijski sustav energetskih certifikata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=od%20godinu%20dana.-,informacijski%20sustav%20energetskih%20certifikata,-%C4%8Clanak%2046.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Dugoročna strategija obnove nacionalnog fonda zgrada i programi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=dugorocna%20strategija%20obnove%20nacionalnog%20fonda%20zgrada%20i%20programi",
+			"razina": 2
+		},
+		{
+			"naslov": "4. SUDIONICI U GRADNJI",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=4.%20sudionici%20u%20gradnji",
+			"razina": 1
+		},
+		{
+			"naslov": "Investitor",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=5.%20revident.-,investitor,-%C4%8Clanak%2049.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Projektant",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prema%20posebnom%20propisu.-,projektant",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvođač",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=odnosno%20izvedbenog%20projekta.-,izvo%C4%91ac",
+			"razina": 2
+		},
+		{
+			"naslov": "Nadzorni inženjer",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=ure%C4%91enja%20i%20gradnje.-,nadzorni%20inzenjer",
+			"razina": 2
+		},
+		{
+			"naslov": "Revident",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=izvje%C5%A1%C4%87a%20nadzornog%20in%C5%BEenjera-,revident,-%C4%8Clanak%2061.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "5. PROJEKTI",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=ili%20zajedni%C4%8Dkom%20vlasni%C5%A1tvu.-,5.%20projekti,-Izrada%20i%20%C4%8Duvanje",
+			"razina": 1
+		},
+		{
+			"naslov": "Izrada i čuvanje projekata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=izrada%20i%20cuvanje%20projekata",
+			"razina": 2
+		},
+		{
+			"naslov": "Vrste projekata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=opremanju%20projekata%20gra%C4%91evina-,vrste%20projekata",
+			"razina": 2
+		},
+		{
+			"naslov": "Izvedbeni projekt",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=protivan%20prostornom%20planu.-,izvedbeni%20projekt,-%C4%8Clanak%2074.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Projekt uklanjanja građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=o%20izradi%20projekta.-,projekt%20uklanjanja%20gra%C4%91evine,-%C4%8Clanak%2076.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Tipski projekt",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=u%20elektroni%C4%8Dkom%20obliku.-,tipski%20projekt",
+			"razina": 2
+		},
+		{
+			"naslov": "Obavijest o načinu provedbe Zakona i drugih propisa",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=obavijest%20o%20nacinu%20provedbe%20zakona%20i%20drugih%20propisa",
+			"razina": 2
+		},
+		{
+			"naslov": "Posebni uvjeti i uvjeti priključenja za građenje građevine za koju se ne izdaje lokacijska dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=posebni%20uvjeti%20i%20uvjeti%20prikljucenja%20za%20gra%C4%91enje%20gra%C4%91evine%20za%20koju%20se%20ne%20izdaje%20lokacijska%20dozvola",
+			"razina": 2
+		},
+		{
+			"naslov": "Potvrda glavnog projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=s%20prostornim%20planom.-,potvrda%20glavnog%20projekta,-%C4%8Clanak%2086.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Potvrda glavnog projekta o usklađenosti s rješenjem o prihvatljivosti zahvata za okoliš, odnosno rješenjem o ocjeni potrebe procjene utjecaja na okoliš",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=potvrda%20glavnog%20projekta%20o%20uskla%C4%91enosti%20s%20rjesenjem%20o%20prihvatljivosti%20zahvata%20za%20okolis%2C%20odnosno%20rjesenjem%20o%20ocjeni%20potrebe%20procjene%20utjecaja%20na%20okolis",
+			"razina": 2
+		},
+		{
+			"naslov": "Žalba, odnosno tužba protiv rješenja o obustavi postupka utvrđivanja posebnih uvjeta i uvjeta priključenja te izdavanja potvrde glavnog projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=zalba%2C%20odnosno%20tuzba%20protiv%20rjesenja%20o%20obustavi%20postupka%20utvr%C4%91ivanja%20posebnih%20uvjeta%20i%20uvjeta%20prikljucenja%20te%20izdavanja%20potvrde%20glavnog%20projekta",
+			"razina": 2
+		},
+		{
+			"naslov": "Komunikacija u postupcima utvrđivanja posebnih uvjeta i uvjeta priključenja te izdavanja potvrda glavnog projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=komunikacija%20u%20postupcima%20utvr%C4%91ivanja%20posebnih%20uvjeta%20i%20uvjeta%20prikljucenja%20te%20izdavanja%20potvrda%20glavnog%20projekta",
+			"razina": 2
+		},
+		{
+			"naslov": "Kontrola projekata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=Brisan.-,kontrola%20projekata,-%C4%8Clanak%2094.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Utvrđivanje usklađenosti (nostrifikacija) projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=utvr%C4%91ivanje%20uskla%C4%91enosti%20(nostrifikacija)%20projekta",
+			"razina": 2
+		},
+		{
+			"naslov": "6. TIJELA NADLEŽNA ZA IZDAVANJE GRAĐEVINSKE I UPORABNE DOZVOLE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=6.%20tijela%20nadlezna%20za%20izdavanje%20gra%C4%91evinske%20i%20uporabne%20dozvole",
+			"razina": 1
+		},
+		{
+			"naslov": "Tijela nadležna u prvom stupnju",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=tijela%20nadlezna%20u%20prvom%20stupnju",
+			"razina": 2
+		},
+		{
+			"naslov": "Službena osoba ovlaštena za rješavanje postupka i izdavanje akta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=sluzbena%20osoba%20ovlastena%20za%20rjesavanje%20postupka%20i%20izdavanje%20akta",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravni lijekovi, povreda službene dužnosti i dužnosti i ugleda ovlaštenog arhitekta i ovlaštenog inženjera",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=pravni%20lijekovi%2C%20povreda%20sluzbene%20duznosti%20i%20duznosti%20i%20ugleda%20ovlastenog%20arhitekta%20i%20ovlastenog%20inzenjera",
+			"razina": 2
+		},
+		{
+			"naslov": "7. GRAĐENJE GRAĐEVINE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=7.%20gra%C4%91enje%20gra%C4%91evine",
+			"razina": 1
+		},
+		{
+			"naslov": "7.1. GRAĐEVINSKA DOZVOLA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=7.1.%20gra%C4%91evinska%20dozvola",
+			"razina": 2
+		},
+		{
+			"naslov": "Zahtjev za izdavanje građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=i%20zainteresirane%20javnosti.-,zahtjev%20za%20izdavanje%20gra%C4%91evinske%20dozvole,-%C4%8Clanak%20108.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Dokaz pravnog interesa",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=u%20elektroni%C4%8Dkom%20obliku.-,dokaz%20pravnog%20interesa,-%C4%8Clanak%20109.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Uvjeti za izdavanje građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=uvjeti%20za%20izdavanje%20gra%C4%91evinske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena propisa o prostornom uređenju",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=primjena%20propisa%20o%20prostornom%20ure%C4%91enju",
+			"razina": 3
+		},
+		{
+			"naslov": "Obuhvat i sadržaj građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=obuhvat%20i%20sadrzaj%20gra%C4%91evinske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Građenje do određenog stupnja dovršenosti",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91enje%20do%20odre%C4%91enog%20stupnja%20dovrsenosti",
+			"razina": 3
+		},
+		{
+			"naslov": "Stranke u postupku izdavanja građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=stranke%20u%20postupku%20izdavanja%20gra%C4%91evinske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Poziv za uvid u spis predmeta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=na%20toj%20nekretnini.-,poziv%20za%20uvid%20u%20spis%20predmeta,-%C4%8Clanak%20116.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Dostava građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=dostava%20gra%C4%91evinske%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevinska dozvola za pripremne radove",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91evinska%20dozvola%20za%20pripremne%20radove",
+			"razina": 3
+		},
+		{
+			"naslov": "Važenje građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=Brisan.-,vazenje%20gra%C4%91evinske%20dozvole,-%C4%8Clanak%20123.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Rok za dovršenje zgrade",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=rok%20za%20dovrsenje%20zgrade",
+			"razina": 3
+		},
+		{
+			"naslov": "Izmjena i/ili dopuna građevinske dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=1.%20ovoga%20%C4%8Dlanka.-,izmjena%20i%2Fili%20dopuna%20gra%C4%91evinske%20dozvole,-%C4%8Clanak%20125.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Promjena investitora",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=promjena%20investitora",
+			"razina": 3
+		},
+		{
+			"naslov": "7.2. GRAĐENJE BEZ GRAĐEVINSKE DOZVOLE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=7.2.%20gra%C4%91enje%20bez%20gra%C4%91evinske%20dozvole",
+			"razina": 2
+		},
+		{
+			"naslov": "Jednostavne i druge građevine i radovi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=BEZ%20GRA%C4%90EVINSKE%20DOZVOLE-,jednostavne%20i%20druge%20gra%C4%91evine%20i%20radovi,-%C4%8Clanak%20128.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Posebni slučajevi građenja",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=posebni%20slucajevi%20gra%C4%91enja",
+			"razina": 3
+		},
+		{
+			"naslov": "Obnavljanje oštećenih građevina",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=obnavljanje%20ostecenih%20gra%C4%91evina",
+			"razina": 3
+		},
+		{
+			"naslov": "7.3. POČETAK GRAĐENJA I GRADILIŠTE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=7.3.%20pocetak%20gra%C4%91enja%20i%20gradiliste",
+			"razina": 2
+		},
+		{
+			"naslov": "Prijava početka građenja i iskolčenje",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prijava%20pocetka%20gra%C4%91enja%20i%20iskolcenje",
+			"razina": 3
+		},
+		{
+			"naslov": "Odluka o privremenoj zabrani izvođenja radova",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=odluka%20o%20privremenoj%20zabrani%20izvo%C4%91enja%20radova",
+			"razina": 3
+		},
+		{
+			"naslov": "Uređenje gradilišta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=Presuda%2C%20Presuda%2C%20Presuda-,ure%C4%91enje%20gradilista",
+			"razina": 3
+		},
+		{
+			"naslov": "Dokumentacija na gradilištu",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=dokumentacija%20na%20gradilistu",
+			"razina": 3
+		},
+		{
+			"naslov": "8. UPORABA, EVIDENTIRANJE, ODRŽAVANJE I UKLANJANJE GRAĐEVINA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.%20uporaba%2C%20evidentiranje%2C%20odrzavanje%20i%20uklanjanje%20gra%C4%91evina",
+			"razina": 1
+		},
+		{
+			"naslov": "8.1. UPORABA GRAĐEVINA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.1.%20uporaba%20gra%C4%91evina",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravne posljedice uporabne dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=pravne%20posljedice%20uporabne%20dozvole",
+			"razina": 3
+		},
+		{
+			"naslov": "Zahtjev za izdavanje uporabne dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=sukladno%20njezinoj%20namjeni.-,zahtjev%20za%20izdavanje%20uporabne%20dozvole,-%C4%8Clanak%20137.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Stranka u postupku",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=u%20elektroni%C4%8Dkom%20obliku.-,stranka%20u%20postupku",
+			"razina": 3
+		},
+		{
+			"naslov": "Tehnički pregled",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=izdavanja%20te%20dozvole.-,tehnicki%20pregled,-%C4%8Clanak%20139.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Pokusni rad",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=nastavka%20tehni%C4%8Dkog%20pregleda.-,pokusni%20rad,-%C4%8Clanak%20143.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Izdavanje uporabne dozvole",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=od%20dvije%20godine.-,izdavanje%20uporabne%20dozvole,-%C4%8Clanak%20144.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Privremena uporabna dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=za%20nezavr%C5%A1enu%20zgradu.-,privremena%20uporabna%20dozvola,-%C4%8Clanak%20145.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Uporabna dozvola za dio građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=uporabna%20dozvola%20za%20dio%20gra%C4%91evine",
+			"razina": 3
+		},
+		{
+			"naslov": "Troškovi postupka",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=predvi%C4%91ena%20glavnim%20projektom.-,troskovi%20postupka",
+			"razina": 3
+		},
+		{
+			"naslov": "8.2. EVIDENTIRANJE GRAĐEVINE U KATASTRU I ZEMLJIŠNOJ KNJIZI",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.2.%20evidentiranje%20gra%C4%91evine%20u%20katastru%20i%20zemljisnoj%20knjizi",
+			"razina": 2
+		},
+		{
+			"naslov": "8.3. ODRŽAVANJE GRAĐEVINE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.3.%20odrzavanje%20gra%C4%91evine",
+			"razina": 2
+		},
+		{
+			"naslov": "8.4. UKLANJANJE GRAĐEVINA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=8.4.%20uklanjanje%20gra%C4%91evina",
+			"razina": 2
+		},
+		{
+			"naslov": "9. NADZOR",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=i%20za%C5%A1tite%20okoli%C5%A1a.-,9.%20nadzor,-%C4%8Clanak%20156.%20(NN",
+			"razina": 1
+		},
+		{
+			"naslov": "10. PREKRŠAJNE ODREDBE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=10.%20prekrsajne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "Prekršaji investitora",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20investitora",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji projektanta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20projektanta",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji u vezi s kontrolom projekta",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20u%20vezi%20s%20kontrolom%20projekta",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji u vezi s nostrifikacijom projekata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20u%20vezi%20s%20nostrifikacijom%20projekata",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji izvođača",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=do%20jedne%20godine.-,prekrsaji%20izvo%C4%91aca,-%C4%8Clanak%20167.%20(NN",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji nadzornog inženjera",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20nadzornog%20inzenjera",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji vlasnika građevine",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20vlasnika%20gra%C4%91evine",
+			"razina": 2
+		},
+		{
+			"naslov": "Prekršaji osoba ovlaštenih za energetsko certificiranje i energetski pregled zgrade te ovlaštenih za neovisnu kontrolu energetskog certifikata i izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prekrsaji%20osoba%20ovlastenih%20za%20energetsko%20certificiranje%20i%20energetski%20pregled%20zgrade%20te%20ovlastenih%20za%20neovisnu%20kontrolu%20energetskog%20certifikata%20i%20izvjesca%20o%20redovitom%20pregledu%20sustava%20grijanja%20i%20sustava%20hla%C4%91enja%20ili%20klimatizacije%20u%20zgradi",
+			"razina": 2
+		},
+		{
+			"naslov": "11. PRIJELAZNE I ZAVRŠNE ODREDBE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.%20prijelazne%20i%20zavrsne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "11.1. ZAPOČETI POSTUPCI, IZDANI AKTI I PRIMJENA PROPISA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.1.%20zapoceti%20postupci%2C%20izdani%20akti%20i%20primjena%20propisa",
+			"razina": 2
+		},
+		{
+			"naslov": "Započeti postupci",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=I%20PRIMJENA%20PROPISA-,zapoceti%20postupci",
+			"razina": 3
+		},
+		{
+			"naslov": "Lokacijska dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=smislu%20ovoga%20Zakona.-,lokacijska%20dozvola",
+			"razina": 3
+		},
+		{
+			"naslov": "Građenje i uporabna dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91enje%20i%20uporabna%20dozvola",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješenje o uvjetima građenja, potvrda glavnog projekta i građevinska dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=rjesenje%20o%20uvjetima%20gra%C4%91enja%2C%20potvrda%20glavnog%20projekta%20i%20gra%C4%91evinska%20dozvola",
+			"razina": 3
+		},
+		{
+			"naslov": "Načelna suglasnost i načelna dozvola",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=nacelna%20suglasnost%20i%20nacelna%20dozvola",
+			"razina": 3
+		},
+		{
+			"naslov": "Rješenja Ministarstva",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=projekta%20prestaje%20va%C5%BEiti.-,rjesenja%20ministarstva",
+			"razina": 3
+		},
+		{
+			"naslov": "Primjena posebnih propisa",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=primjena%20posebnih%20propisa",
+			"razina": 3
+		},
+		{
+			"naslov": "11.2. UPORABNA DOZVOLA ZA ODREĐENE GRAĐEVINE",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.2.%20uporabna%20dozvola%20za%20odre%C4%91ene%20gra%C4%91evine",
+			"razina": 2
+		},
+		{
+			"naslov": "Građevina izgrađena na temelju akta za građenje izdanog do 1. listopada 2007.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91evina%20izgra%C4%91ena%20na%20temelju%20akta%20za%20gra%C4%91enje%20izdanog%20do%201.%20listopada%202007.",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevina izgrađena do 15. veljače 1968.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prethodilo%20izdavanju%20dozvole.-,gra%C4%91evina%20izgra%C4%91ena%20do%2015.%20veljace%201968.,-%C4%8Clanak%20184.%20(NN",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevina izgrađena, rekonstruirana, obnovljena ili sanirana u provedbi propisa o obnovi, odnosno propisa o područjima posebne državne skrbi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91evina%20izgra%C4%91ena%2C%20rekonstruirana%2C%20obnovljena%20ili%20sanirana%20u%20provedbi%20propisa%20o%20obnovi%2C%20odnosno%20propisa%20o%20podrucjima%20posebne%20drzavne%20skrbi",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevina koju je Republika Hrvatska stekla u svrhu stambenog zbrinjavanja",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91evina%20koju%20je%20republika%20hrvatska%20stekla%20u%20svrhu%20stambenog%20zbrinjavanja",
+			"razina": 3
+		},
+		{
+			"naslov": "Građevina čiji je akt za građenje uništen ili nedostupan",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=gra%C4%91evina%20ciji%20je%20akt%20za%20gra%C4%91enje%20unisten%20ili%20nedostupan",
+			"razina": 3
+		},
+		{
+			"naslov": "11.3. OBAVLJANJE POSLOVA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.3.%20obavljanje%20poslova",
+			"razina": 2
+		},
+		{
+			"naslov": "Povjerenstva",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.3.%20OBAVLJANJE%20POSLOVA-,povjerenstva",
+			"razina": 3
+		},
+		{
+			"naslov": "Upravna tijela županija i gradova",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=upravna%20tijela%20zupanija%20i%20gradova",
+			"razina": 3
+		},
+		{
+			"naslov": "Osobe ovlaštene za obavljanje kontrole projekata i nostrifikaciju projekata",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=odre%C4%91ene%20ovim%20Zakonom.-,osobe%20ovlastene%20za%20obavljanje%20kontrole%20projekata%20i%20nostrifikaciju%20projekata",
+			"razina": 3
+		},
+		{
+			"naslov": "Poslovi i izobrazba u vezi s energetskom učinkovitosti",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=poslovi%20i%20izobrazba%20u%20vezi%20s%20energetskom%20ucinkovitosti",
+			"razina": 3
+		},
+		{
+			"naslov": "11.4. ZAKONI, DRUGI PROPISI, UZANCE I PRAVILA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.4.%20zakoni%2C%20drugi%20propisi%2C%20uzance%20i%20pravila",
+			"razina": 2
+		},
+		{
+			"naslov": "Pravilnici",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=UZANCE%20I%20PRAVILA-,pravilnici,2",
+			"razina": 3
+		},
+		{
+			"naslov": "Posebne uzance o građenju",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=1.%20sije%C4%8Dnja%202015.-,posebne%20uzance%20o%20gra%C4%91enju,2",
+			"razina": 3
+		},
+		{
+			"naslov": "Tehnički propisi",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=o%20obveznim%20odnosima.-,tehnicki%20propisi,2",
+			"razina": 3
+		},
+		{
+			"naslov": "Priznata tehnička pravila",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=priznata%20tehnicka%20pravila,2",
+			"razina": 3
+		},
+		{
+			"naslov": "Prestanak važenja propisa",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prestanak%20vazenja%20propisa,2",
+			"razina": 3
+		},
+		{
+			"naslov": "Stupanje na snagu Zakona",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=stupanje%20na%20snagu%20zakona,2",
+			"razina": 3
+		},
+		{
+			"naslov": "PRIJELAZNE ODREDBE PROŠLIH INAČICA ZAKONA",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=11.5.%20prijelazne%20i%20zavrsne%20odredbe",
+			"razina": 1
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 20/17 od 08.03.2017.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2020%2F17%20od%2008.03.2017.,1",
+			"razina": 2
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 39/19 od 17.04.2019.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%2039%2F19%20od%2017.04.2019.,1",
+			"razina": 2
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 125/19 od 20.12.2019.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20125%2F19%20od%2020.12.2019.,1",
+			"razina": 2
+		},
+		{
+			"naslov": "Prijelazne i završne odredbe iz NN 145/24 od 13.12.2024.",
+			"poveznica": "/z/690/zakon-o-gradnji#:~:text=prijelazne%20i%20zavrsne%20odredbe%20iz%20nn%20145%2F24%20od%2013.12.2024.,1",
+			"razina": 2
+		}
+	]
+}
