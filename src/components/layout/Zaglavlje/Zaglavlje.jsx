@@ -1,6 +1,6 @@
 import { NaslovZakona, NarodneNovine, DatumiVazenja } from './'
 
-function Zaglavlje() {
+const Zaglavlje = () => {
 	const MetaPodaciAkta = {
 		naziv: 'Zakon o gradnji',
 		NN: '153/2013, 20/2017, 39/2019, 125/2019, 145/2024',
@@ -9,10 +9,11 @@ function Zaglavlje() {
 		osnovniURL: 'www.zakon.hr',
 		poveznica: '/z/690/zakon-o-gradnji',
 		akronim: 'ZoG',
-	}  
-  const {naziv, NN, datum, poveznica, protokol, osnovniURL, akronim} = MetaPodaciAkta
-  const punaPoveznica = protokol + osnovniURL + poveznica
-  const saptac = `${naziv} - (${akronim})`
+	}
+	const { naziv, NN, datum, poveznica, protokol, osnovniURL, akronim } =
+		MetaPodaciAkta
+	const punaPoveznica = protokol + osnovniURL + poveznica
+	const saptac = `${naziv} - (${akronim})`
 
 	return (
 		<header className="zaglavlje">

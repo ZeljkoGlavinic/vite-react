@@ -1,4 +1,4 @@
-function NaslovZakona({ naziv, poveznica, saptac }) {
+const NaslovZakona = ({ naziv, poveznica, saptac }) => {
 	return (
 		<div className="naslov-zakona">
 			<h1>

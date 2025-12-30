@@ -1,4 +1,4 @@
-function NarodneNovine({ NN }) {
+const NarodneNovine = ({ NN }) => {
   return (
     <div className="narodne-novine">
       <p>Narodne novine broj {NN}</p>

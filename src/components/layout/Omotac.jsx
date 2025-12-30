@@ -1,9 +1,6 @@
-import Zaglavlje from './Zaglavlje/Zaglavlje'
-import LijeviStupac from './LijeviStupac/LijeviStupac'
-import DesniStupac from './DesniStupac/DesniStupac'
-import Podnozje from './Podnozje/Podnozje'
+import { Zaglavlje, LijeviStupac, DesniStupac, Podnozje } from './'
 
-function Omotac() {
+const Omotac = () => {
 	return (
 		<div className="omotac">
 			<Zaglavlje />

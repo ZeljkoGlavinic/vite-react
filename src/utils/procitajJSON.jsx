@@ -1,4 +1,4 @@
-export function procitajJSON() {
+const procitajJSON = () => {
 	return [
 		{
 			naslov: 'I. OPĆE ODREDBE',
@@ -32,3 +32,4 @@ export function procitajJSON() {
 		},
 	]
 }
+export { procitajJSON }

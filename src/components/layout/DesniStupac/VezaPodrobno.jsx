@@ -1,4 +1,4 @@
-export function VezaPodrobno({ punaPoveznica, naslov, razina }) {
+export const VezaPodrobno = ({ punaPoveznica, naslov, razina }) => {
 	return (
 		<li>
 			<a href={punaPoveznica} id="stavka16" target="_blank" title="Šaptač">

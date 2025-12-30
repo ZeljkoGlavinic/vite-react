@@ -1,8 +1,9 @@
 import { procitajJSON } from '../../../utils/procitajJSON'
 import { VezaPodrobno } from './VezaPodrobno'
 
-function StrukturiraniPopisPodrobnihVeza() {
+const StrukturiraniPopisPodrobnihVeza = () => {
 	const PodrobneStavke = procitajJSON()
+	console.log(PodrobneStavke)
 
 	return (
 		<ul>

@@ -1,7 +1,7 @@
 import './styles/layout.css'
 import Omotac from './components/layout/Omotac'
 
-function App() {
+const App = () => {
 	return <Omotac />
 }
 

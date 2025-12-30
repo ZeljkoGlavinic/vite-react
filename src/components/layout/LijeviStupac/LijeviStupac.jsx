@@ -1,13 +1,12 @@
-import IzbornikZakona from './IzbornikZakona'
-import IzbornikGlavnihNaslova from './IzbornikGlavnihNaslova'
+import {IzbornikZakona, IzbornikGlavnihNaslova} from './'
 
-function LijeviStupac() {
-  return (
-    <aside className="lijevi-stupac">
-      <IzbornikZakona />
-      <IzbornikGlavnihNaslova />
-    </aside>
-  )
+const LijeviStupac = () => {
+	return (
+		<aside className="lijevi-stupac">
+			<IzbornikZakona />
+			<IzbornikGlavnihNaslova />
+		</aside>
+	)
 }
 
 export default LijeviStupac

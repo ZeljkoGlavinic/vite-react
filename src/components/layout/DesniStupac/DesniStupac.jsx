@@ -1,9 +1,9 @@
-import StrukturiraniPopisPodrobnihVeza from './StrukturiraniPopisPodrobnihVeza'
+import { StrukturiraniPopisVezaPodrobnih } from './'
 
-function DesniStupac() {
+const DesniStupac = () => {
 	return (
 		<main className="desni-stupac">
-			<StrukturiraniPopisPodrobnihVeza />
+			<StrukturiraniPopisVezaPodrobnih />
 		</main>
 	)
 }
